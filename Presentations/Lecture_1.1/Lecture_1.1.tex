@@ -1,0 +1,99 @@
+
+\documentclass{beamer}
+
+%\setbeameroption{hide notes} % Only slides
+
+\setbeameroption{show notes on second screen=right} % Both
+
+\setbeamertemplate{note page}{\pagecolor{yellow!1}\insertnote}
+
+\usepackage{pgfpages}
+
+\usecolortheme{beaver}       
+
+\setbeamercolor{note page}{bg=white} 
+
+\setbeamertemplate{date}{}
+
+
+\defbeamertemplate*{title page}{customized}[1][]
+{
+	\usebeamerfont{title}\inserttitle\par
+	\bigskip
+	\bigskip
+		\bigskip
+			\bigskip
+
+	\usebeamerfont{title}\usebeamercolor[fg]{subtitle}\insertsubtitle\par
+	\bigskip
+	\usebeamerfont{author}\insertauthor\par
+	\usebeamerfont{subtitle}\insertinstitute\par
+	\usebeamercolor[fg]{titlegraphic}\inserttitlegraphic
+}
+
+
+
+\setbeamercolor{itemize item}{fg=black}
+\setbeamercolor{itemize subitem}{fg=black}
+\setbeamercolor{itemize subsubitem}{fg=black}
+
+%%% Slide 1
+
+\title{FRST302: Forest Genetics}
+\author{Lecture 1.1: Classical Genetics and its Molecular Mechanisms}
+\date{\today}
+
+\begin{document}
+	\maketitle
+
+\note{\emph{Remember, everything on the lecture slides and the accompanying notes is potentially examinable!}}
+% for the beamer version
+%\documentclass{beamer}
+
+%%% Slide 2
+	
+	\begin{frame}
+
+\huge \centering \emph{What are the major genetic questions in biology?}
+
+   \note{
+   	The answer to this question totally depends on your perspective. However, I think that it is more than fair to say that the following questions are at the heart of most biological science:
+		\begin{itemize} 
+			\item Why is there so much variation among individuals?
+			\item How is this variation maintained in populations?
+			\item Why do offspring tend to resemble their parents? 
+		\end{itemize}
+	}
+	\end{frame}
+
+%%% Slide 3
+	
+	\begin{frame}
+		\frametitle{Outline for Today}
+\setbeamertemplate{itemize items}[circle]
+\Large{
+			\begin{itemize} 
+			\item Basic definitions in genetics
+			\item Principles and terms in classical genetics
+			\item Molecular mechanisms of classical genetics
+			\item Recombination and its significance
+		\end{itemize}
+	}
+
+\note{
+Learning Outcomes
+	\emph{		\begin{itemize} 
+				\item Basic definitions in genetics
+				\item Principles and terms in classical genetics
+				\item Molecular mechanisms of classical genetics
+				\item Chromosome crossover and its significance
+			\end{itemize}
+	}
+}
+\end{frame}
+
+
+
+
+
+\end{document}
