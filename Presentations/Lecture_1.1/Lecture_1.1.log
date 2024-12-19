@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.2)  9 DEC 2024 14:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.2)  19 DEC 2024 09:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -972,51 +972,77 @@ Dictionary: translator-theorem-dictionary, Language: English
 ) (./Lecture_1.1.nav) [1
 
 {/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-<img/pollenPlume.jpg, id=21, 438.13687pt x 292.09125pt>
-File: img/pollenPlume.jpg Graphic file (type jpg)
-<use img/pollenPlume.jpg>
-Package pdftex.def Info: img/pollenPlume.jpg  used on input line 81.
-(pdftex.def)             Requested size: 276.559pt x 184.375pt.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 87.
 
-Overfull \vbox (9.00525pt too high) detected at line 81
- []
-
-[2
-
- <./img/pollenPlume.jpg>]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 107
-.
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 107
-.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 87.
+
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on inp
-ut line 107.
+ut line 87.
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
 File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/ma
 thkerncmss.
-) [3
+) [2
+
+] [3
 
 ] [4
 
-] [5
-
 ]
-<img/homunculous.jpg, id=45, 188.705pt x 473.77pt>
-File: img/homunculous.jpg Graphic file (type jpg)
-<use img/homunculous.jpg>
-Package pdftex.def Info: img/homunculous.jpg  used on input line 149.
-(pdftex.def)             Requested size: 73.7506pt x 185.15993pt.
+<img/pollenPlume.jpg, id=38, 438.13687pt x 292.09125pt>
+File: img/pollenPlume.jpg Graphic file (type jpg)
+<use img/pollenPlume.jpg>
+Package pdftex.def Info: img/pollenPlume.jpg  used on input line 124.
+(pdftex.def)             Requested size: 245.83282pt x 163.89087pt.
+ [5
+
+ <./img/pollenPlume.jpg>]
+<img/zuidhof_2014.jpg, id=45, 273.73062pt x 308.26672pt>
+File: img/zuidhof_2014.jpg Graphic file (type jpg)
+<use img/zuidhof_2014.jpg>
+Package pdftex.def Info: img/zuidhof_2014.jpg  used on input line 135.
+(pdftex.def)             Requested size: 184.3758pt x 207.643pt.
  [6
 
+ <./img/zuidhof_2014.jpg>]
+<img/homunculous.jpg, id=53, 188.705pt x 473.77pt>
+File: img/homunculous.jpg Graphic file (type jpg)
+<use img/homunculous.jpg>
+Package pdftex.def Info: img/homunculous.jpg  used on input line 167.
+(pdftex.def)             Requested size: 73.7506pt x 185.15993pt.
+ [7
+
  <./img/homunculous.jpg>]
+File: img/homunculous.jpg Graphic file (type jpg)
+<use img/homunculous.jpg>
+Package pdftex.def Info: img/homunculous.jpg  used on input line 167.
+(pdftex.def)             Requested size: 73.7506pt x 185.15993pt.
+ [8
+
+]
+<img/blending.jpg, id=66, 447.6725pt x 762.85pt>
+File: img/blending.jpg Graphic file (type jpg)
+<use img/blending.jpg>
+Package pdftex.def Info: img/blending.jpg  used on input line 192.
+(pdftex.def)             Requested size: 101.40724pt x 172.79785pt.
+
+Overfull \hbox (9.21935pt too wide) in paragraph at lines 192--192
+ [][] 
+ []
+
+[9
+
+ <./img/blending.jpg>] [10
+
+]
 \tf@nav=\write6
 \openout6 = `Lecture_1.1.nav'.
 
@@ -1035,24 +1061,25 @@ Package rerunfilecheck Info: File `Lecture_1.1.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 24872 strings out of 474116
- 497773 string characters out of 5743682
- 1933187 words of memory out of 5000000
- 46711 multiletter control sequences out of 15000+600000
- 574530 words of font info for 95 fonts, out of 8000000 for 9000
+ 24922 strings out of 474116
+ 498740 string characters out of 5743682
+ 1934187 words of memory out of 5000000
+ 46753 multiletter control sequences out of 15000+600000
+ 575013 words of font info for 96 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,13n,123p,428b,730s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 128i,13n,123p,428b,744s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb
 ></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb>
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></
-usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><
-/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi17.pfb><
-/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></
-usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
-Output written on Lecture_1.1.pdf (6 pages, 172577 bytes).
+usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></us
+r/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></u
+sr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></u
+sr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi17.pfb></u
+sr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on Lecture_1.1.pdf (10 pages, 317498 bytes).
 PDF statistics:
- 89 PDF objects out of 1000 (max. 8388607)
- 58 compressed objects within 1 object stream
- 13 named destinations out of 1000 (max. 500000)
- 53 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 118 PDF objects out of 1000 (max. 8388607)
+ 79 compressed objects within 1 object stream
+ 21 named destinations out of 1000 (max. 500000)
+ 63 words of extra memory for PDF output out of 10000 (max. 10000000)
 

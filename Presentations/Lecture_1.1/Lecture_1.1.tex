@@ -60,25 +60,6 @@
 % for the beamer version
 %\documentclass{beamer}
 
-%%% Slide 2
-	
-	\begin{frame}
-
-\Huge \centering \emph{What are the major genetic questions in biology?}
-\vspace{20pt}
-\includegraphics[keepaspectratio, width  =0.9\textwidth]{img/pollenPlume}
-   \note{
-   	The answer to this question totally depends on your perspective. However, I think that it is more than fair to say that the following questions are at the heart of most biological science:
-		\begin{itemize} 
-			\item Why is there so much variation among individuals?
-			\item How is this variation maintained in populations?
-			\item Why do offspring tend to resemble their parents? 
-					\par
-		\end{itemize}
-
-		\footnote \url{https://www.asthmacenter.com/wp-content/uploads/Pine-Pollen-Plume-e1495119706845.jpg}
-	}
-	\end{frame}
 
 %%% Slide 3
 	
@@ -87,10 +68,9 @@
 \setbeamertemplate{itemize items}[circle]
 \Large{
 			\begin{itemize} 
-			\item Basic definitions in genetics
-			\item Principles and terms in classical genetics
-			\item Molecular mechanisms of classical genetics
-			\item Recombination and its significance
+			\item Short history of genetics
+			\item Mendel's laws
+			\item Chromosomes
 		\end{itemize}
 	}
 
@@ -122,6 +102,38 @@ Learning Outcomes
 \end{frame}
 
 
+
+%%% Slide 2
+
+\begin{frame}
+	
+	\Huge \centering \emph{What are the major questions in genetics?}
+	\vspace{20pt}
+	\includegraphics[keepaspectratio, width  =0.8\textwidth]{img/pollenPlume}
+	\note{
+		The answer to this question totally depends on your perspective. However, I think that it is more than fair to say that the following questions are at the heart of most biological science:
+		\begin{itemize} 
+			\item Why is there so much variation among individuals?
+			\item How is this variation maintained in populations?
+			\item Why do offspring tend to resemble their parents? 
+			\par
+		\end{itemize}
+		
+		\footnote \url{https://www.asthmacenter.com/wp-content/uploads/Pine-Pollen-Plume-e1495119706845.jpg}
+	}
+\end{frame}
+
+
+\begin{frame}
+	
+	How can we apply a knowledge of genetics?
+	
+	\vspace{5pt}
+	
+	\centering
+	\includegraphics[keepaspectratio, width  =0.6\textwidth]{img/zuidhof_2014} \footnote {Modified from Figure 1 - Zuidhof et al. 2014}
+\end{frame}
+
 \begin{frame}
 	\frametitle{History of Genetics}
 	
@@ -130,7 +142,9 @@ Learning Outcomes
 			Humans have probably pondered inheritence for all history:
 			\vspace{10pt}
 			\begin{itemize}
-				\item The Ancient Greeks considered Male and Female 
+				\item For much of history, the mechanisms of inheritence were basically unknown
+				\item The inheritance of acquired characteristics was widely accepted for much of history (from Hippocrates to Aristotal to Lamarck) \pause
+				\item \emph{Early microscopists thought that they had seen small humans inhabiting sperm cells!}
 			\end{itemize}
 	\end{column}
 	\begin{column}{.3\textwidth}
@@ -142,11 +156,48 @@ Learning Outcomes
 
 	\end{column}
 \end{columns}
+   \note{
+	The inheritance of acquired characteristics is often referred to simply as Lamarkism after Jean-Baptiste Lamarck.
 
-\footnotetext[1]{\url{https://en.wikipedia.org/wiki/History_of_genetics}}
-
-		
+	Lamarck was an 19th century evolutionary biologist who formalised a lot of the contemporary thought on how biodiversity originated. The classic example is a giraffe stretching up to reach higher leaves would likely give birth to offspring with longer necks.
+	
+	\includegraphics[keepaspectratio, width  = 0.8\textwidth]{img/lamarck}\\
+			\url{https://simple.wikipedia.org/wiki/Lamarckism}
+}
 \end{frame}
+
+
+
+\begin{frame}
+	\frametitle{History of Genetics}
+	
+	\begin{columns}[T]
+		\begin{column}{.6\textwidth}
+			By the time Darwin came around, the dominant theory was \textbf{blending inheritance}
+		
+			\vspace{10pt}
+			\begin{itemize}
+				\item The notion that an offspring's traits are simply the average of the parents' traits. 
+				\item This is intuitively appealing - offspring's traits are often intermediate 
+				\item There is one big problem with blending inheritance!
+			\end{itemize}
+		\end{column}
+		\begin{column}{.3\textwidth}
+				\centering
+			\includegraphics[keepaspectratio, width  = 1.1\textwidth]{img/blending}
+		\end{column}
+	\end{columns}
+	
+
+\end{frame}
+	
+\begin{frame}
+		\frametitle{The Problem with Blending}
+		
+				\Huge \centering \emph{What's the big problem with blending inheritance?}
+		   \note{The halving of variation each generation due to blending inheritance was first pointed out by Fleeming Jenkin - the inventor of the cable car}
+\end{frame}
+
 
 
 
