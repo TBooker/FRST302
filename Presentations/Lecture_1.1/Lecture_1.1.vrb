@@ -1,0 +1,26 @@
+\frametitle{Particulate Inheritance}
+	
+	\textbf{Below is the R code to make the figures on the infinitesimal model - feel free to play around with it}
+	\begin{adjustbox}{max width=\textwidth}
+		
+	\begin{lstlisting}[language=R]
+
+# Demonstrate the distribution of trait values for a quantitative trait
+# Under Mendelian segregation for an arbitrary number of genes
+# Assumes random mating, constant effect sizes, constant allele frequencies
+	
+nGenes = 100
+alleleFrequency = 0.2
+popSize = 5000
+effectSize = 1
+			
+hist(
+	replicate(popSize,
+		sum(  1 * rbinom(nGenes, 2, alleleFrequency) ) ),
+	col = "#e69b99",
+	xlab=  "Trait Value",
+	main= paste("Distribution of Trait Values Assuming\n",nGenes,
+		"Genes Segregating According to Mendelian Inheritance"),
+	breaks = 40)
+		\end{lstlisting}
+\end{adjustbox}

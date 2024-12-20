@@ -1,7 +1,9 @@
 
-
 %%% Uncomment for slide version
 \documentclass{beamer}
+\usepackage{listings}
+\usepackage{adjustbox}
+
 \setbeameroption{hide notes} % Only slides
 
 %%% Uncomment for handout version
@@ -9,17 +11,15 @@
 %\setbeameroption{show notes on second screen=right} % Both
 
 \setbeamertemplate{note page}{\pagecolor{white}\insertnote}
-
 \setbeamertemplate{footline}{}
-
 \usetheme[progressbar=frametitle]{moloch}% modern fork of the metropolis theme
-
 \setbeamercolor{background canvas}{bg=white}
 \setbeamercolor{progress bar}{use=palette primary,fg=red,bg=red}
-
 \setbeamercolor{note page}{bg=white} 
-
 \setbeamertemplate{date}{}
+
+
+
 
 
 \defbeamertemplate*{title page}{customized}[1][]
@@ -46,6 +46,23 @@
 \setbeamercolor{itemize item}{fg=black}
 \setbeamercolor{itemize subitem}{fg=black}
 \setbeamercolor{itemize subsubitem}{fg=black}
+
+\newcommand\blfootnote[1]{%
+	\begingroup
+	\renewcommand\thefootnote{}\footnote{#1}%
+	\addtocounter{footnote}{-1}%
+	\endgroup
+}
+
+
+%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%
+
 
 %%% Slide 1
 
@@ -173,18 +190,18 @@ Learning Outcomes
 	
 	\begin{columns}[T]
 		\begin{column}{.6\textwidth}
-			By the time Darwin came around, the dominant theory was \textbf{blending inheritance}
+			At the time Darwin came around, the dominant theory was \textbf{blending inheritance}
 		
-			\vspace{10pt}
+			\vspace{5pt}
 			\begin{itemize}
 				\item The notion that an offspring's traits are simply the average of the parents' traits. 
-				\item This is intuitively appealing - offspring's traits are often intermediate 
+				\item This is intuitively appealing -  continuously varying traits are often intermediate between their parents 
 				\item There is one big problem with blending inheritance!
 			\end{itemize}
 		\end{column}
 		\begin{column}{.3\textwidth}
 				\centering
-			\includegraphics[keepaspectratio, width  = 1.1\textwidth]{img/blending}
+			\includegraphics[keepaspectratio, width  = 0.4\textwidth]{img/blending}
 		\end{column}
 	\end{columns}
 	
@@ -200,6 +217,185 @@ Learning Outcomes
 
 
 
+\begin{frame}
+
+	\frametitle{Trait Variation}
+
+	Blending inheritence only really makes sense when you are thinking about continuously varying traits
+	\vspace{5pt}
+
+But different modes of variation are common:\pause
+\begin{itemize}
+	\item Continuous  - traits measured on a numerical scale (e.g. height, diameter, chlorophyll fluorescence) \pause
+	\item Discrete - traits that exhibit categorical differences (e.g. different leaf forms, distinct flower colour) \pause
+	\item Ordinal - discrete traits with some informative order (e.g. high, medium and low shade tolerance)
+	
+\end{itemize}
+
+\end{frame}
+
+
+
+\begin{frame}
+	
+	\frametitle{Particulate Inheritance}
+	
+	\begin{columns}[T]
+		
+		\begin{column}{0.6\textwidth}
+			
+			Through careful experimentation analysing discrete traits in peas, Franciscan Friar Gregor Mendel found evidence supporting a model of paticulate inheritence
+			
+			\vspace{10pt}
+			
+			\includegraphics[keepaspectratio, width  =0.8\textwidth]{img/peas}
+			
+		\end{column}
+		\begin{column}{.4\textwidth}
+			\includegraphics[keepaspectratio, width  =\textwidth]{img/mendel}
+			\centering
+			Mmmmm...\\
+			Peas Peas Peas Peas Peas
+		\end{column}
+		
+		\note{Pea pic from: \url{https://www.thoughtco.com/domestication-history-of-peas-169376}}
+		
+		
+	\end{columns}
+\end{frame}
+
+
+
+
+\begin{frame}
+	\frametitle{Mendel's Crosses}
+	\centering
+	Mendel examined variation and inheritence of several discrete characteristics of pea plants
+	\vspace{10pt}
+
+			\includegraphics[keepaspectratio, width  =0.8\textwidth]{img/mendelCross_2}
+\note{Figure from: \url{https://opentextbc.ca/biology/wp-content/uploads/sites/96/2015/02/Figure_08_01_03.jpg}}
+\end{frame}
+
+
+\begin{frame}
+	
+	\frametitle{Mendel's Crosses}
+
+	
+\begin{columns}
+	\begin{column}{0.5\textwidth}
+			Garden peas are capable of self-fertilzation, so Mendel was abe to generate "true" lines of peas that exhibit a particular trait/phenotype
+		\begin{itemize}
+	\item	Crossing lines produces an F1 generation \note{F1 stands for first filial generation. Subsequent crosses of individuals from the F1 generation will produce an F2, crossing individuals from the F2 generation will produce an F3 and so on...}	
+	\item 	The patterns of variation among the F2 generations led Mendel to develop his notions of particulate inheritence
+		\end{itemize}
+		
+
+
+	\end{column}
+	\begin{column}{0.6\textwidth}  
+\begin{center}
+			\includegraphics[keepaspectratio, width  =0.6\textwidth]{img/mendelCross_1}
+\end{center}
+\end{column}
+\end{columns}
+\end{frame}
+
+
+
+\begin{frame}
+	
+	\frametitle{Particulate Inheritance}
+	
+	\begin{columns}[T]
+		
+		\begin{column}{0.6\textwidth}
+			
+			\begin{itemize}
+				\item Proposed in 1865 and 1866
+				\item 6-7 years after Darwin’s Theory of Evolution
+				\item Represents the foundation of modern genetics
+				\vspace{20pt}
+				\item ASD
+			\end{itemize}
+			
+			
+		\end{column}
+		\begin{column}{.4\textwidth}
+			\includegraphics[keepaspectratio, width  =\textwidth]{img/mendel}
+			\centering
+			More peas please
+		\end{column}
+		
+		\note{Pea pic from: \url{https://www.thoughtco.com/domestication-history-of-peas-169376}}
+		
+		
+	\end{columns}
+	\note{
+		A letter from Darwin to Alfred Russel Wallace - 6th Februrary 1866
+		
+		``My dear Wallace,
+		
+		After I had despatched my last note, the simple explanation which you give had occurred to me, and seems satisfactory.
+		
+		I do not think you understand what I mean by the non-blending of certain varieties. It does not refer to fertility; an instance will explain; I crossed the Painted Lady and Purple sweet-peas, which are very differently coloured vars, and got, even out of the same pod, both varieties perfect but none intermediate. Something of this kind I shd. think must occur at first with your butterflies got the 3 forms of Lythrum; tho’ these cases are in appearance so wonderful, I do not know that they are really more so than every female in the world producing distinct male got female offspring.
+		
+		I am heartily glad that you mean to go on preparing your journal.6
+		
+		Believe me yours,  very sincerely,
+		
+		Ch. Darwin"}
+\end{frame}
+
+
+
+
+
+
+\begin{frame}
+	\frametitle{Reconciling the Mendelians and the Biometricians}
+
+				\includegraphics[keepaspectratio, width  =\textwidth]{img/100Genes}
+\end{frame}
+
+
+
+
+\begin{frame}[fragile]
+	\frametitle{Particulate Inheritance}
+	
+	\textbf{Below is the R code to make the figures on the infinitesimal model - feel free to play around with it}
+	\begin{adjustbox}{max width=\textwidth}
+		
+	\begin{lstlisting}[language=R]
+
+# Demonstrate the distribution of trait values for a quantitative trait
+# Under Mendelian segregation for an arbitrary number of genes
+# Assumes random mating, constant effect sizes, constant allele frequencies
+	
+nGenes = 100
+alleleFrequency = 0.2
+popSize = 5000
+effectSize = 1
+			
+hist( 
+	replicate(popSize,
+		sum(  1 * rbinom(nGenes, 2, alleleFrequency) ) ),
+	col = "#e69b99",
+	xlab=  "Trait Value",
+	main= paste("Distribution of Trait Values Assuming\n",nGenes, 
+		"Genes Segregating According to Mendelian Inheritance"),
+	breaks = 40)
+		\end{lstlisting}
+\end{adjustbox}
+\end{frame}
+
 
 
 \end{document}
+
+The Mendelian Biometrician debate was rather fierce. ``Mr. Bateson devotes many words to these questions, but one cannot help feeling that his speculations would have had more value had he kept his emotions under better control; the style and method of the religious revivalist are ill-suited to scientific controversy. It is difficult to speak with patience either of the turgid and bombastic preface to 'Mendel’s Principles,' with its reference to Scribes and Pharisees, and its Carlylean inversions of sentence, or of the grossly and gratuitously offensive reply to Professor Weldon and the almost equally offensive adulation of Mr. Galton and Professor Pearson  Yule 1990}
+
+
+
