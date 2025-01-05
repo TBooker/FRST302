@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.2)  30 DEC 2024 19:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.2)  3 JAN 2025 21:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1129,188 +1129,564 @@ Package pdftex.def Info: img/blending.jpg  used on input line 214.
 
  <./img/blending.jpg>] [10
 
-] [11
+]
+<img/iThnk.jpg, id=77, 738.76pt x 1203.49625pt>
+File: img/iThnk.jpg Graphic file (type jpg)
+<use img/iThnk.jpg>
+Package pdftex.def Info: img/iThnk.jpg  used on input line 254.
+(pdftex.def)             Requested size: 122.91406pt x 200.22105pt.
+ [11
 
-] [12
+ <./img/iThnk.jpg>]
+File: img/iThnk.jpg Graphic file (type jpg)
+<use img/iThnk.jpg>
+Package pdftex.def Info: img/iThnk.jpg  used on input line 254.
+(pdftex.def)             Requested size: 122.91406pt x 200.22105pt.
 
-] [13
+[12
+
+]
+File: img/iThnk.jpg Graphic file (type jpg)
+<use img/iThnk.jpg>
+Package pdftex.def Info: img/iThnk.jpg  used on input line 254.
+(pdftex.def)             Requested size: 122.91406pt x 200.22105pt.
+ [13
 
 ] [14
 
-]
-[15
+] [15
+
+] [16
+
+] [17
 
 ]
-<img/peas.jpg, id=105, 1505.625pt x 1064.97874pt>
+<img/peas.jpg, id=116, 1505.625pt x 1064.97874pt>
 File: img/peas.jpg Graphic file (type jpg)
 <use img/peas.jpg>
-Package pdftex.def Info: img/peas.jpg  used on input line 304.
+Package pdftex.def Info: img/peas.jpg  used on input line 305.
 (pdftex.def)             Requested size: 147.50119pt x 104.32657pt.
-<img/mendel.jpg, id=106, 441.65pt x 599.23875pt>
+<img/mendel.jpg, id=117, 441.65pt x 599.23875pt>
 File: img/mendel.jpg Graphic file (type jpg)
 <use img/mendel.jpg>
-Package pdftex.def Info: img/mendel.jpg  used on input line 304.
+Package pdftex.def Info: img/mendel.jpg  used on input line 305.
 (pdftex.def)             Requested size: 122.91406pt x 166.77075pt.
- [16
+ [18
 
- <./img/peas.jpg> <./img/mendel.jpg>] [17
-
-] [18
+ <./img/peas.jpg> <./img/mendel.jpg>] [19
 
 ]
-<img/mendelCross_2.jpg, id=122, 538.1706pt x 380.622pt>
+[20
+
+]
+<img/mendelCross_2.jpg, id=134, 538.1706pt x 380.622pt>
 File: img/mendelCross_2.jpg Graphic file (type jpg)
 <use img/mendelCross_2.jpg>
-Package pdftex.def Info: img/mendelCross_2.jpg  used on input line 347.
+Package pdftex.def Info: img/mendelCross_2.jpg  used on input line 348.
 (pdftex.def)             Requested size: 245.83282pt x 173.86859pt.
- [19
+ [21
 
  <./img/mendelCross_2.jpg>]
-<img/mendelCross_1.jpg, id=129, 262.0992pt x 518.4168pt>
+<img/mendelCross_1.jpg, id=140, 262.0992pt x 518.4168pt>
 File: img/mendelCross_1.jpg Graphic file (type jpg)
 <use img/mendelCross_1.jpg>
-Package pdftex.def Info: img/mendelCross_1.jpg  used on input line 372.
+Package pdftex.def Info: img/mendelCross_1.jpg  used on input line 373.
 (pdftex.def)             Requested size: 110.62659pt x 218.80937pt.
- [20
+ [22
 
  <./img/mendelCross_1.jpg>]
-<img/crossedPeas.jpeg, id=135, 1037.8775pt x 1227.58624pt>
+<img/crossedPeas.jpeg, id=146, 1037.8775pt x 1227.58624pt>
 File: img/crossedPeas.jpeg Graphic file (type jpg)
 <use img/crossedPeas.jpeg>
-Package pdftex.def Info: img/crossedPeas.jpeg  used on input line 386.
+Package pdftex.def Info: img/crossedPeas.jpeg  used on input line 387.
 (pdftex.def)             Requested size: 184.3758pt x 218.07135pt.
 
-Overfull \vbox (0.86232pt too high) detected at line 386
+Overfull \vbox (0.86232pt too high) detected at line 387
  []
 
-[21
+[23
 
- <./img/crossedPeas.jpeg>] [22
+ <./img/crossedPeas.jpeg>] [24
 
-] [23
+] [25
 
-] [24
+] [26
 
-]
-File: img/crossedPeas.jpeg Graphic file (type jpg)
-<use img/crossedPeas.jpeg>
-Package pdftex.def Info: img/crossedPeas.jpeg  used on input line 445.
-(pdftex.def)             Requested size: 184.3758pt x 218.07135pt.
- [25
+] [27
 
 ]
 File: img/crossedPeas.jpeg Graphic file (type jpg)
 <use img/crossedPeas.jpeg>
-Package pdftex.def Info: img/crossedPeas.jpeg  used on input line 445.
-(pdftex.def)             Requested size: 184.3758pt x 218.07135pt.
- [26
-
-]
-File: img/crossedPeas.jpeg Graphic file (type jpg)
-<use img/crossedPeas.jpeg>
-Package pdftex.def Info: img/crossedPeas.jpeg  used on input line 474.
-(pdftex.def)             Requested size: 184.3758pt x 218.07135pt.
- [27
-
-]
-File: img/crossedPeas.jpeg Graphic file (type jpg)
-<use img/crossedPeas.jpeg>
-Package pdftex.def Info: img/crossedPeas.jpeg  used on input line 474.
+Package pdftex.def Info: img/crossedPeas.jpeg  used on input line 446.
 (pdftex.def)             Requested size: 184.3758pt x 218.07135pt.
  [28
 
 ]
 File: img/crossedPeas.jpeg Graphic file (type jpg)
 <use img/crossedPeas.jpeg>
-Package pdftex.def Info: img/crossedPeas.jpeg  used on input line 500.
+Package pdftex.def Info: img/crossedPeas.jpeg  used on input line 446.
 (pdftex.def)             Requested size: 184.3758pt x 218.07135pt.
  [29
 
 ]
 File: img/crossedPeas.jpeg Graphic file (type jpg)
 <use img/crossedPeas.jpeg>
-Package pdftex.def Info: img/crossedPeas.jpeg  used on input line 500.
+Package pdftex.def Info: img/crossedPeas.jpeg  used on input line 475.
 (pdftex.def)             Requested size: 184.3758pt x 218.07135pt.
  [30
 
 ]
 File: img/crossedPeas.jpeg Graphic file (type jpg)
 <use img/crossedPeas.jpeg>
-Package pdftex.def Info: img/crossedPeas.jpeg  used on input line 527.
+Package pdftex.def Info: img/crossedPeas.jpeg  used on input line 475.
 (pdftex.def)             Requested size: 184.3758pt x 218.07135pt.
-
-[31
-
-] [32
+ [31
 
 ]
-<img/roundBeechLeaf.jpg, id=199, 259.97125pt x 194.7275pt>
-File: img/roundBeechLeaf.jpg Graphic file (type jpg)
-<use img/roundBeechLeaf.jpg>
-Package pdftex.def Info: img/roundBeechLeaf.jpg  used on input line 584.
-(pdftex.def)             Requested size: 115.62932pt x 86.61037pt.
-File: img/roundBeechLeaf.jpg Graphic file (type jpg)
-<use img/roundBeechLeaf.jpg>
-Package pdftex.def Info: img/roundBeechLeaf.jpg  used on input line 584.
-(pdftex.def)             Requested size: 115.62932pt x 86.61037pt.
-<img/cutBeechLeaf.jpg, id=200, 367.3725pt x 274.02374pt>
-File: img/cutBeechLeaf.jpg Graphic file (type jpg)
-<use img/cutBeechLeaf.jpg>
-Package pdftex.def Info: img/cutBeechLeaf.jpg  used on input line 584.
-(pdftex.def)             Requested size: 115.63324pt x 86.25102pt.
-File: img/cutBeechLeaf.jpg Graphic file (type jpg)
-<use img/cutBeechLeaf.jpg>
-Package pdftex.def Info: img/cutBeechLeaf.jpg  used on input line 584.
-(pdftex.def)             Requested size: 115.63324pt x 86.25102pt.
- [33
+File: img/crossedPeas.jpeg Graphic file (type jpg)
+<use img/crossedPeas.jpeg>
+Package pdftex.def Info: img/crossedPeas.jpeg  used on input line 501.
+(pdftex.def)             Requested size: 184.3758pt x 218.07135pt.
+ [32
 
- <./img/roundBeechLeaf.jpg> <./img/cutBeechLeaf.jpg>]
-File: img/roundBeechLeaf.jpg Graphic file (type jpg)
-<use img/roundBeechLeaf.jpg>
-Package pdftex.def Info: img/roundBeechLeaf.jpg  used on input line 607.
-(pdftex.def)             Requested size: 115.62932pt x 86.61037pt.
-File: img/roundBeechLeaf.jpg Graphic file (type jpg)
-<use img/roundBeechLeaf.jpg>
-Package pdftex.def Info: img/roundBeechLeaf.jpg  used on input line 607.
-(pdftex.def)             Requested size: 115.62932pt x 86.61037pt.
-File: img/cutBeechLeaf.jpg Graphic file (type jpg)
-<use img/cutBeechLeaf.jpg>
-Package pdftex.def Info: img/cutBeechLeaf.jpg  used on input line 607.
-(pdftex.def)             Requested size: 115.63324pt x 86.25102pt.
-File: img/cutBeechLeaf.jpg Graphic file (type jpg)
-<use img/cutBeechLeaf.jpg>
-Package pdftex.def Info: img/cutBeechLeaf.jpg  used on input line 607.
-(pdftex.def)             Requested size: 115.63324pt x 86.25102pt.
+]
+File: img/crossedPeas.jpeg Graphic file (type jpg)
+<use img/crossedPeas.jpeg>
+Package pdftex.def Info: img/crossedPeas.jpeg  used on input line 501.
+(pdftex.def)             Requested size: 184.3758pt x 218.07135pt.
+
+[33
+
+]
+File: img/crossedPeas.jpeg Graphic file (type jpg)
+<use img/crossedPeas.jpeg>
+Package pdftex.def Info: img/crossedPeas.jpeg  used on input line 528.
+(pdftex.def)             Requested size: 184.3758pt x 218.07135pt.
  [34
 
 ]
-File: img/mendel.jpg Graphic file (type jpg)
-<use img/mendel.jpg>
-Package pdftex.def Info: img/mendel.jpg  used on input line 659.
-(pdftex.def)             Requested size: 122.91406pt x 166.77075pt.
+
+LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
+(Font)              using `OT1/cmss/b/it' instead on input line 591.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/b/it' undefined
+(Font)              using `OT1/cmss/b/n' instead on input line 591.
+
+LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <10> not available
+(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 591.
 
 [35
 
 ]
-<img/100Genes.png, id=216, 622.325pt x 526.96875pt>
-File: img/100Genes.png Graphic file (type png)
-<use img/100Genes.png>
-Package pdftex.def Info: img/100Genes.png  used on input line 675.
-(pdftex.def)             Requested size: 153.64493pt x 130.10152pt.
- [36
 
- <./img/100Genes.png>]
-File: img/100Genes.png Graphic file (type png)
-<use img/100Genes.png>
-Package pdftex.def Info: img/100Genes.png  used on input line 685.
-(pdftex.def)             Requested size: 307.28987pt x 260.20303pt.
+LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
+(Font)              using `OT1/cmss/b/it' instead on input line 591.
 
-Overfull \vbox (27.294pt too high) detected at line 685
+LaTeX Font Info:    Font shape `OT1/cmss/b/it' in size <10> not available
+(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 591.
+
+[36
+
+] [37
+
+]
+<img/greenSpruceCone.jpg, id=226, 148.555pt x 197.73875pt>
+File: img/greenSpruceCone.jpg Graphic file (type jpg)
+<use img/greenSpruceCone.jpg>
+Package pdftex.def Info: img/greenSpruceCone.jpg  used on input line 672.
+(pdftex.def)             Requested size: 54.29352pt x 72.26999pt.
+File: img/greenSpruceCone.jpg Graphic file (type jpg)
+<use img/greenSpruceCone.jpg>
+Package pdftex.def Info: img/greenSpruceCone.jpg  used on input line 672.
+(pdftex.def)             Requested size: 54.29352pt x 72.26999pt.
+<img/redSpruceCone.jpg, id=227, 136.51pt x 194.7275pt>
+File: img/redSpruceCone.jpg Graphic file (type jpg)
+<use img/redSpruceCone.jpg>
+Package pdftex.def Info: img/redSpruceCone.jpg  used on input line 672.
+(pdftex.def)             Requested size: 50.66203pt x 72.26999pt.
+File: img/redSpruceCone.jpg Graphic file (type jpg)
+<use img/redSpruceCone.jpg>
+Package pdftex.def Info: img/redSpruceCone.jpg  used on input line 672.
+(pdftex.def)             Requested size: 50.66203pt x 72.26999pt.
+<img/reddishSpruceCone.jpg, id=228, 149.55875pt x 197.73875pt>
+File: img/reddishSpruceCone.jpg Graphic file (type jpg)
+<use img/reddishSpruceCone.jpg>
+Package pdftex.def Info: img/reddishSpruceCone.jpg  used on input line 672.
+(pdftex.def)             Requested size: 54.66037pt x 72.26999pt.
+File: img/reddishSpruceCone.jpg Graphic file (type jpg)
+<use img/reddishSpruceCone.jpg>
+Package pdftex.def Info: img/reddishSpruceCone.jpg  used on input line 672.
+(pdftex.def)             Requested size: 54.66037pt x 72.26999pt.
+File: img/greenSpruceCone.jpg Graphic file (type jpg)
+<use img/greenSpruceCone.jpg>
+Package pdftex.def Info: img/greenSpruceCone.jpg  used on input line 672.
+(pdftex.def)             Requested size: 54.29352pt x 72.26999pt.
+File: img/greenSpruceCone.jpg Graphic file (type jpg)
+<use img/greenSpruceCone.jpg>
+Package pdftex.def Info: img/greenSpruceCone.jpg  used on input line 672.
+(pdftex.def)             Requested size: 54.29352pt x 72.26999pt.
+File: img/redSpruceCone.jpg Graphic file (type jpg)
+<use img/redSpruceCone.jpg>
+Package pdftex.def Info: img/redSpruceCone.jpg  used on input line 672.
+(pdftex.def)             Requested size: 50.66203pt x 72.26999pt.
+File: img/greenSpruceCone.jpg Graphic file (type jpg)
+<use img/greenSpruceCone.jpg>
+Package pdftex.def Info: img/greenSpruceCone.jpg  used on input line 672.
+(pdftex.def)             Requested size: 54.29352pt x 72.26999pt.
+
+Overfull \hbox (3.63148pt too wide) in paragraph at lines 672--672
+[][] 
  []
 
-[37
+File: img/reddishSpruceCone.jpg Graphic file (type jpg)
+<use img/reddishSpruceCone.jpg>
+Package pdftex.def Info: img/reddishSpruceCone.jpg  used on input line 672.
+(pdftex.def)             Requested size: 54.66037pt x 72.26999pt.
+File: img/greenSpruceCone.jpg Graphic file (type jpg)
+<use img/greenSpruceCone.jpg>
+Package pdftex.def Info: img/greenSpruceCone.jpg  used on input line 672.
+(pdftex.def)             Requested size: 54.29352pt x 72.26999pt.
+[38
 
-] [38
+ <./img/greenSpruceCone.jpg> <./img/redSpruceCone.jpg> <./img/reddishSpruceCone
+.jpg>]
+File: img/greenSpruceCone.jpg Graphic file (type jpg)
+<use img/greenSpruceCone.jpg>
+Package pdftex.def Info: img/greenSpruceCone.jpg  used on input line 672.
+(pdftex.def)             Requested size: 54.29352pt x 72.26999pt.
+File: img/greenSpruceCone.jpg Graphic file (type jpg)
+<use img/greenSpruceCone.jpg>
+Package pdftex.def Info: img/greenSpruceCone.jpg  used on input line 672.
+(pdftex.def)             Requested size: 54.29352pt x 72.26999pt.
+File: img/redSpruceCone.jpg Graphic file (type jpg)
+<use img/redSpruceCone.jpg>
+Package pdftex.def Info: img/redSpruceCone.jpg  used on input line 672.
+(pdftex.def)             Requested size: 50.66203pt x 72.26999pt.
+File: img/redSpruceCone.jpg Graphic file (type jpg)
+<use img/redSpruceCone.jpg>
+Package pdftex.def Info: img/redSpruceCone.jpg  used on input line 672.
+(pdftex.def)             Requested size: 50.66203pt x 72.26999pt.
+File: img/reddishSpruceCone.jpg Graphic file (type jpg)
+<use img/reddishSpruceCone.jpg>
+Package pdftex.def Info: img/reddishSpruceCone.jpg  used on input line 672.
+(pdftex.def)             Requested size: 54.66037pt x 72.26999pt.
+File: img/reddishSpruceCone.jpg Graphic file (type jpg)
+<use img/reddishSpruceCone.jpg>
+Package pdftex.def Info: img/reddishSpruceCone.jpg  used on input line 672.
+(pdftex.def)             Requested size: 54.66037pt x 72.26999pt.
+File: img/greenSpruceCone.jpg Graphic file (type jpg)
+<use img/greenSpruceCone.jpg>
+Package pdftex.def Info: img/greenSpruceCone.jpg  used on input line 672.
+(pdftex.def)             Requested size: 54.29352pt x 72.26999pt.
+File: img/greenSpruceCone.jpg Graphic file (type jpg)
+<use img/greenSpruceCone.jpg>
+Package pdftex.def Info: img/greenSpruceCone.jpg  used on input line 672.
+(pdftex.def)             Requested size: 54.29352pt x 72.26999pt.
+File: img/redSpruceCone.jpg Graphic file (type jpg)
+<use img/redSpruceCone.jpg>
+Package pdftex.def Info: img/redSpruceCone.jpg  used on input line 672.
+(pdftex.def)             Requested size: 50.66203pt x 72.26999pt.
+File: img/greenSpruceCone.jpg Graphic file (type jpg)
+<use img/greenSpruceCone.jpg>
+Package pdftex.def Info: img/greenSpruceCone.jpg  used on input line 672.
+(pdftex.def)             Requested size: 54.29352pt x 72.26999pt.
+
+Overfull \hbox (3.63148pt too wide) in paragraph at lines 672--672
+[][] 
+ []
+
+File: img/reddishSpruceCone.jpg Graphic file (type jpg)
+<use img/reddishSpruceCone.jpg>
+Package pdftex.def Info: img/reddishSpruceCone.jpg  used on input line 672.
+(pdftex.def)             Requested size: 54.66037pt x 72.26999pt.
+File: img/greenSpruceCone.jpg Graphic file (type jpg)
+<use img/greenSpruceCone.jpg>
+Package pdftex.def Info: img/greenSpruceCone.jpg  used on input line 672.
+(pdftex.def)             Requested size: 54.29352pt x 72.26999pt.
+[39
+
+]
+File: img/greenSpruceCone.jpg Graphic file (type jpg)
+<use img/greenSpruceCone.jpg>
+Package pdftex.def Info: img/greenSpruceCone.jpg  used on input line 672.
+(pdftex.def)             Requested size: 54.29352pt x 72.26999pt.
+File: img/greenSpruceCone.jpg Graphic file (type jpg)
+<use img/greenSpruceCone.jpg>
+Package pdftex.def Info: img/greenSpruceCone.jpg  used on input line 672.
+(pdftex.def)             Requested size: 54.29352pt x 72.26999pt.
+File: img/redSpruceCone.jpg Graphic file (type jpg)
+<use img/redSpruceCone.jpg>
+Package pdftex.def Info: img/redSpruceCone.jpg  used on input line 672.
+(pdftex.def)             Requested size: 50.66203pt x 72.26999pt.
+File: img/redSpruceCone.jpg Graphic file (type jpg)
+<use img/redSpruceCone.jpg>
+Package pdftex.def Info: img/redSpruceCone.jpg  used on input line 672.
+(pdftex.def)             Requested size: 50.66203pt x 72.26999pt.
+File: img/reddishSpruceCone.jpg Graphic file (type jpg)
+<use img/reddishSpruceCone.jpg>
+Package pdftex.def Info: img/reddishSpruceCone.jpg  used on input line 672.
+(pdftex.def)             Requested size: 54.66037pt x 72.26999pt.
+File: img/reddishSpruceCone.jpg Graphic file (type jpg)
+<use img/reddishSpruceCone.jpg>
+Package pdftex.def Info: img/reddishSpruceCone.jpg  used on input line 672.
+(pdftex.def)             Requested size: 54.66037pt x 72.26999pt.
+File: img/greenSpruceCone.jpg Graphic file (type jpg)
+<use img/greenSpruceCone.jpg>
+Package pdftex.def Info: img/greenSpruceCone.jpg  used on input line 672.
+(pdftex.def)             Requested size: 54.29352pt x 72.26999pt.
+File: img/greenSpruceCone.jpg Graphic file (type jpg)
+<use img/greenSpruceCone.jpg>
+Package pdftex.def Info: img/greenSpruceCone.jpg  used on input line 672.
+(pdftex.def)             Requested size: 54.29352pt x 72.26999pt.
+File: img/redSpruceCone.jpg Graphic file (type jpg)
+<use img/redSpruceCone.jpg>
+Package pdftex.def Info: img/redSpruceCone.jpg  used on input line 672.
+(pdftex.def)             Requested size: 50.66203pt x 72.26999pt.
+File: img/greenSpruceCone.jpg Graphic file (type jpg)
+<use img/greenSpruceCone.jpg>
+Package pdftex.def Info: img/greenSpruceCone.jpg  used on input line 672.
+(pdftex.def)             Requested size: 54.29352pt x 72.26999pt.
+
+Overfull \hbox (3.63148pt too wide) in paragraph at lines 672--672
+[][] 
+ []
+
+File: img/reddishSpruceCone.jpg Graphic file (type jpg)
+<use img/reddishSpruceCone.jpg>
+Package pdftex.def Info: img/reddishSpruceCone.jpg  used on input line 672.
+(pdftex.def)             Requested size: 54.66037pt x 72.26999pt.
+File: img/greenSpruceCone.jpg Graphic file (type jpg)
+<use img/greenSpruceCone.jpg>
+Package pdftex.def Info: img/greenSpruceCone.jpg  used on input line 672.
+(pdftex.def)             Requested size: 54.29352pt x 72.26999pt.
+[40
+
+]
+File: img/greenSpruceCone.jpg Graphic file (type jpg)
+<use img/greenSpruceCone.jpg>
+Package pdftex.def Info: img/greenSpruceCone.jpg  used on input line 672.
+(pdftex.def)             Requested size: 54.29352pt x 72.26999pt.
+File: img/greenSpruceCone.jpg Graphic file (type jpg)
+<use img/greenSpruceCone.jpg>
+Package pdftex.def Info: img/greenSpruceCone.jpg  used on input line 672.
+(pdftex.def)             Requested size: 54.29352pt x 72.26999pt.
+File: img/redSpruceCone.jpg Graphic file (type jpg)
+<use img/redSpruceCone.jpg>
+Package pdftex.def Info: img/redSpruceCone.jpg  used on input line 672.
+(pdftex.def)             Requested size: 50.66203pt x 72.26999pt.
+File: img/redSpruceCone.jpg Graphic file (type jpg)
+<use img/redSpruceCone.jpg>
+Package pdftex.def Info: img/redSpruceCone.jpg  used on input line 672.
+(pdftex.def)             Requested size: 50.66203pt x 72.26999pt.
+File: img/reddishSpruceCone.jpg Graphic file (type jpg)
+<use img/reddishSpruceCone.jpg>
+Package pdftex.def Info: img/reddishSpruceCone.jpg  used on input line 672.
+(pdftex.def)             Requested size: 54.66037pt x 72.26999pt.
+File: img/reddishSpruceCone.jpg Graphic file (type jpg)
+<use img/reddishSpruceCone.jpg>
+Package pdftex.def Info: img/reddishSpruceCone.jpg  used on input line 672.
+(pdftex.def)             Requested size: 54.66037pt x 72.26999pt.
+File: img/greenSpruceCone.jpg Graphic file (type jpg)
+<use img/greenSpruceCone.jpg>
+Package pdftex.def Info: img/greenSpruceCone.jpg  used on input line 672.
+(pdftex.def)             Requested size: 54.29352pt x 72.26999pt.
+File: img/greenSpruceCone.jpg Graphic file (type jpg)
+<use img/greenSpruceCone.jpg>
+Package pdftex.def Info: img/greenSpruceCone.jpg  used on input line 672.
+(pdftex.def)             Requested size: 54.29352pt x 72.26999pt.
+File: img/redSpruceCone.jpg Graphic file (type jpg)
+<use img/redSpruceCone.jpg>
+Package pdftex.def Info: img/redSpruceCone.jpg  used on input line 672.
+(pdftex.def)             Requested size: 50.66203pt x 72.26999pt.
+File: img/greenSpruceCone.jpg Graphic file (type jpg)
+<use img/greenSpruceCone.jpg>
+Package pdftex.def Info: img/greenSpruceCone.jpg  used on input line 672.
+(pdftex.def)             Requested size: 54.29352pt x 72.26999pt.
+
+Overfull \hbox (3.63148pt too wide) in paragraph at lines 672--672
+[][] 
+ []
+
+File: img/reddishSpruceCone.jpg Graphic file (type jpg)
+<use img/reddishSpruceCone.jpg>
+Package pdftex.def Info: img/reddishSpruceCone.jpg  used on input line 672.
+(pdftex.def)             Requested size: 54.66037pt x 72.26999pt.
+File: img/greenSpruceCone.jpg Graphic file (type jpg)
+<use img/greenSpruceCone.jpg>
+Package pdftex.def Info: img/greenSpruceCone.jpg  used on input line 672.
+(pdftex.def)             Requested size: 54.29352pt x 72.26999pt.
+[41
+
+]
+<img/codominantPlot.png, id=249, 602.25pt x 331.2375pt>
+File: img/codominantPlot.png Graphic file (type png)
+<use img/codominantPlot.png>
+Package pdftex.def Info: img/codominantPlot.png  used on input line 703.
+(pdftex.def)             Requested size: 252.94499pt x 139.11879pt.
+ [42
+
+ <./img/codominantPlot.png>]
+<img/domCodomPlot.png, id=257, 602.25pt x 331.2375pt>
+File: img/domCodomPlot.png Graphic file (type png)
+<use img/domCodomPlot.png>
+Package pdftex.def Info: img/domCodomPlot.png  used on input line 703.
+(pdftex.def)             Requested size: 252.94499pt x 139.11879pt.
+ [43
+
+ <./img/domCodomPlot.png>]
+<img/allDom.png, id=265, 652.4375pt x 331.2375pt>
+File: img/allDom.png Graphic file (type png)
+<use img/allDom.png>
+Package pdftex.def Info: img/allDom.png  used on input line 703.
+(pdftex.def)             Requested size: 252.94499pt x 128.4189pt.
+ [44
+
+ <./img/allDom.png>]
+<img/roundBeechLeaf.jpg, id=272, 259.97125pt x 194.7275pt>
+File: img/roundBeechLeaf.jpg Graphic file (type jpg)
+<use img/roundBeechLeaf.jpg>
+Package pdftex.def Info: img/roundBeechLeaf.jpg  used on input line 724.
+(pdftex.def)             Requested size: 115.62932pt x 86.61037pt.
+File: img/roundBeechLeaf.jpg Graphic file (type jpg)
+<use img/roundBeechLeaf.jpg>
+Package pdftex.def Info: img/roundBeechLeaf.jpg  used on input line 724.
+(pdftex.def)             Requested size: 115.62932pt x 86.61037pt.
+<img/cutBeechLeaf.jpg, id=273, 367.3725pt x 274.02374pt>
+File: img/cutBeechLeaf.jpg Graphic file (type jpg)
+<use img/cutBeechLeaf.jpg>
+Package pdftex.def Info: img/cutBeechLeaf.jpg  used on input line 724.
+(pdftex.def)             Requested size: 115.63324pt x 86.25102pt.
+File: img/cutBeechLeaf.jpg Graphic file (type jpg)
+<use img/cutBeechLeaf.jpg>
+Package pdftex.def Info: img/cutBeechLeaf.jpg  used on input line 724.
+(pdftex.def)             Requested size: 115.63324pt x 86.25102pt.
+ [45
+
+ <./img/roundBeechLeaf.jpg> <./img/cutBeechLeaf.jpg>]
+File: img/roundBeechLeaf.jpg Graphic file (type jpg)
+<use img/roundBeechLeaf.jpg>
+Package pdftex.def Info: img/roundBeechLeaf.jpg  used on input line 745.
+(pdftex.def)             Requested size: 115.62932pt x 86.61037pt.
+File: img/roundBeechLeaf.jpg Graphic file (type jpg)
+<use img/roundBeechLeaf.jpg>
+Package pdftex.def Info: img/roundBeechLeaf.jpg  used on input line 745.
+(pdftex.def)             Requested size: 115.62932pt x 86.61037pt.
+File: img/cutBeechLeaf.jpg Graphic file (type jpg)
+<use img/cutBeechLeaf.jpg>
+Package pdftex.def Info: img/cutBeechLeaf.jpg  used on input line 745.
+(pdftex.def)             Requested size: 115.63324pt x 86.25102pt.
+File: img/cutBeechLeaf.jpg Graphic file (type jpg)
+<use img/cutBeechLeaf.jpg>
+Package pdftex.def Info: img/cutBeechLeaf.jpg  used on input line 745.
+(pdftex.def)             Requested size: 115.63324pt x 86.25102pt.
+ [46
+
+]
+File: img/roundBeechLeaf.jpg Graphic file (type jpg)
+<use img/roundBeechLeaf.jpg>
+Package pdftex.def Info: img/roundBeechLeaf.jpg  used on input line 745.
+(pdftex.def)             Requested size: 115.62932pt x 86.61037pt.
+File: img/roundBeechLeaf.jpg Graphic file (type jpg)
+<use img/roundBeechLeaf.jpg>
+Package pdftex.def Info: img/roundBeechLeaf.jpg  used on input line 745.
+(pdftex.def)             Requested size: 115.62932pt x 86.61037pt.
+File: img/cutBeechLeaf.jpg Graphic file (type jpg)
+<use img/cutBeechLeaf.jpg>
+Package pdftex.def Info: img/cutBeechLeaf.jpg  used on input line 745.
+(pdftex.def)             Requested size: 115.63324pt x 86.25102pt.
+File: img/cutBeechLeaf.jpg Graphic file (type jpg)
+<use img/cutBeechLeaf.jpg>
+Package pdftex.def Info: img/cutBeechLeaf.jpg  used on input line 745.
+(pdftex.def)             Requested size: 115.63324pt x 86.25102pt.
+
+[47
+
+] [48
+
+] [49
+
+]
+File: img/mendel.jpg Graphic file (type jpg)
+<use img/mendel.jpg>
+Package pdftex.def Info: img/mendel.jpg  used on input line 804.
+(pdftex.def)             Requested size: 122.91406pt x 166.77075pt.
+ [50
+
+] [51
+
+] [52
+
+]
+<img/oneGene.jpeg, id=317, 652.4375pt x 351.3125pt>
+File: img/oneGene.jpeg Graphic file (type jpg)
+<use img/oneGene.jpeg>
+Package pdftex.def Info: img/oneGene.jpeg  used on input line 884.
+(pdftex.def)             Requested size: 184.3758pt x 99.27812pt.
+ [53
+
+ <./img/oneGene.jpeg>]
+File: img/oneGene.jpeg Graphic file (type jpg)
+<use img/oneGene.jpeg>
+Package pdftex.def Info: img/oneGene.jpeg  used on input line 884.
+(pdftex.def)             Requested size: 184.3758pt x 99.27812pt.
+ [54
+
+]
+File: img/oneGene.jpeg Graphic file (type jpg)
+<use img/oneGene.jpeg>
+Package pdftex.def Info: img/oneGene.jpeg  used on input line 884.
+(pdftex.def)             Requested size: 184.3758pt x 99.27812pt.
+ [55
+
+]
+File: img/oneGene.jpeg Graphic file (type jpg)
+<use img/oneGene.jpeg>
+Package pdftex.def Info: img/oneGene.jpeg  used on input line 884.
+(pdftex.def)             Requested size: 184.3758pt x 99.27812pt.
+ [56
+
+]
+File: img/oneGene.jpeg Graphic file (type jpg)
+<use img/oneGene.jpeg>
+Package pdftex.def Info: img/oneGene.jpeg  used on input line 913.
+(pdftex.def)             Requested size: 184.3758pt x 99.27812pt.
+<img/oneHundredGenes.jpeg, id=340, 652.4375pt x 351.3125pt>
+File: img/oneHundredGenes.jpeg Graphic file (type jpg)
+<use img/oneHundredGenes.jpeg>
+Package pdftex.def Info: img/oneHundredGenes.jpeg  used on input line 913.
+(pdftex.def)             Requested size: 184.3758pt x 99.27812pt.
+ [57
+
+ <./img/oneHundredGenes.jpeg>]
+File: img/oneGene.jpeg Graphic file (type jpg)
+<use img/oneGene.jpeg>
+Package pdftex.def Info: img/oneGene.jpeg  used on input line 913.
+(pdftex.def)             Requested size: 184.3758pt x 99.27812pt.
+File: img/oneHundredGenes.jpeg Graphic file (type jpg)
+<use img/oneHundredGenes.jpeg>
+Package pdftex.def Info: img/oneHundredGenes.jpeg  used on input line 913.
+(pdftex.def)             Requested size: 184.3758pt x 99.27812pt.
+ [58
+
+] [59
+
+] [60
+
+] [61
+
+] [62
+
+]
+<img/albino.jpg, id=372, 1818.795pt x 1195.46625pt>
+File: img/albino.jpg Graphic file (type jpg)
+<use img/albino.jpg>
+Package pdftex.def Info: img/albino.jpg  used on input line 1000.
+(pdftex.def)             Requested size: 252.94499pt x 166.2514pt.
+ [63
+
+ <./img/albino.jpg>]
+[64
 
 ]
 \openout4 = `Lecture_1.1.vrb'.
@@ -1366,7 +1742,7 @@ Overfull \hbox (165.75505pt too wide) in paragraph at lines 23--24
 [][][][][][][][][][][][][][][][][] 
  []
 
-) [39
+) [65
 
 {/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
 \tf@nav=\write6
@@ -1391,28 +1767,29 @@ Package rerunfilecheck Info: File `Lecture_1.1.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 28762 strings out of 474116
- 555529 string characters out of 5743682
- 1974187 words of memory out of 5000000
- 50465 multiletter control sequences out of 15000+600000
+ 28992 strings out of 474116
+ 560010 string characters out of 5743682
+ 1971187 words of memory out of 5000000
+ 50643 multiletter control sequences out of 15000+600000
  582683 words of font info for 122 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,12n,123p,611b,2299s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb
 ></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb>
-</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></
-usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></us
-r/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></u
-sr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></u
-sr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi17.pfb></u
-sr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></us
-r/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi9.pfb></usr
-/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/
-local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfsx1095.pfb>
-Output written on Lecture_1.1.pdf (39 pages, 1760907 bytes).
+</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb><
+/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></u
+sr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr
+/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></us
+r/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></us
+r/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi17.pfb></us
+r/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr
+/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi9.pfb></usr/
+local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/l
+ocal/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfsx1095.pfb>
+Output written on Lecture_1.1.pdf (65 pages, 2758948 bytes).
 PDF statistics:
- 311 PDF objects out of 1000 (max. 8388607)
- 226 compressed objects within 3 object streams
- 79 named destinations out of 1000 (max. 500000)
- 103 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 474 PDF objects out of 1000 (max. 8388607)
+ 348 compressed objects within 4 object streams
+ 131 named destinations out of 1000 (max. 500000)
+ 148 words of extra memory for PDF output out of 10000 (max. 10000000)
 
