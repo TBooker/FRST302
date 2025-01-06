@@ -9,8 +9,10 @@
 
 
 \usepackage{listings}
-\usepackage{adjustbox}
-\usepackage{multirow}
+\usepackage{adjustbox} % To incorporate code into Latex
+\usepackage{multirow} % To merge multiple rows  in a table
+\usepackage{soul} % To put in strikethrough text
+
 
 \setbeamertemplate{note page}{\pagecolor{white}\insertnote}
 \setbeamertemplate{footline}{}
@@ -139,21 +141,13 @@ Learning Outcomes
 			\item Why do offspring tend to resemble their parents? 
 			\par
 		\end{itemize}
-		
+
 		\footnote \url{https://www.asthmacenter.com/wp-content/uploads/Pine-Pollen-Plume-e1495119706845.jpg}
 	}
 \end{frame}
 
 %%% Slide 5
-\begin{frame}
-	
-	How can we apply a knowledge of genetics?
-	
-	\vspace{5pt}
-	
-	\centering
-	\includegraphics[keepaspectratio, width  =0.6\textwidth]{img/zuidhof_2014} \footnote {Modified from Figure 1 - Zuidhof et al. 2014}
-\end{frame}
+
 
 %%% Slide 6
 \begin{frame}
@@ -829,6 +823,21 @@ Let's take a short break
 	
 \end{frame}
 
+\begin{frame}
+
+\frametitle{Terminology Check}
+
+\begin{itemize}
+	\item Gene - the unit of heredity
+	\item Allele - 
+	\item Homozygote
+	\item Heterozygote
+	\item Any others... ?
+	
+\end{itemize}
+
+\end{frame}
+
 
 \begin{frame}
 	
@@ -836,14 +845,41 @@ Let's take a short break
 \begin{center}
 The rediscovery of Mendel's laws kicked off a scientific feud \\\textbf{The Biometricians v. The Mendelians}
 \end{center}
+\begin{columns}
+\begin{column}{0.5\textwidth}
+	\begin{flushright}
+	Studying continuous variation
+	\end{flushright}
+	\end{column}
+	\begin{column}{0.5\textwidth}
+	\begin{flushleft}
+		Studying discrete variation
+	\end{flushleft}
+\end{column}
 
+\end{columns}
 
+\vspace{3pt}
+
+\hrule \pause
+\vspace{5pt}
+
+The debate boiled down to the following question:
+\vspace{5pt}
+
+\begin{center}
+	\textit{How can the inheritence of discrete particles explain patterns of continuous variation?}
+\end{center}
+\blfootnote{ \textit{Historians suggest that much of the debate was driven by personality rather than intellectual difference though} }
+ 
 
 \note{ 
-	Biometricians, typically concerned with patterns of continuous variation, did not accept that Mendelian inheritence could explain quantitative traits \\
+	Biometricians, typically concerned with patterns of continuous variation, did not accept that Mendelian inheritence could explain quantitative traits 
 	
 	The Mendelians, convinced by the clarity of Mendel's and subsequent experiments (e.g. those of Bateseon and Saunders), accepted Mendelian inheritance as an explanation for trait variation - though the logic they used to reconcile the arguments of the biometricians are not clear. 
-}
+	
+	The Mendelian Biometrician debate was rather fierce. ``Mr. Bateson devotes many words to these questions, but one cannot help feeling that his speculations would have had more value had he kept his emotions under better control; the style and method of the religious revivalist are ill-suited to scientific controversy. It is difficult to speak with patience either of the turgid and bombastic preface to 'Mendel’s Principles,' with its reference to Scribes and Pharisees, and its Carlylean inversions of sentence, or of the grossly and gratuitously offensive reply to Professor Weldon and the almost equally offensive adulation of Mr. Galton and Professor Pearson"  Yule 1990}
+
 
 
 \end{frame}
@@ -922,13 +958,41 @@ Assuming Mendel's laws and that a large number of genes controls complex traits 
 
 \bigskip
 
-This model was first formalized in 1918\footnote[1]{This idea, represents a major turning point in the history of genetics} \\
+This model was first formalized in 1918\footnote[1]{This idea, represents a major turning point in the history of genetics}, but even Mendel had an inkling that this may be the case \\
 
 \bigskip
 
 If we take this model to the limit of an infinite number of genes, each making an infinitely small contribution to a particular trait we get \textbf{the infinitesimal model} - the basis of quantitative genetics (more on that in Module 3) 
 
 \end{frame}
+
+\begin{frame}
+	
+	\frametitle{How can we Apply a Model of Genetics?}
+	
+	
+\begin{columns}
+	\begin{column}{0.3\textwidth}	
+		Quantitative genetic models work and have been very effective in the last 100 years!
+	\end{column}
+	\begin{column}{0.7\textwidth}
+	\centering
+	\includegraphics[keepaspectratio, width  =0.8\textwidth]{img/zuidhof_2014} \footnote {Modified from Figure 1 - Zuidhof et al. 2014}
+\end{column}
+\end{columns}
+	
+\end{frame}
+
+
+\begin{frame}
+	
+	\Huge
+	Questions? \\ \pause
+	Let's take a short break
+	
+\end{frame}
+
+
 
 
 \begin{frame}
@@ -947,8 +1011,184 @@ If we take this model to the limit of an infinite number of genes, each making a
 \end{frame}
 
 
+\begin{frame}
+	\frametitle{A Timeline of Some Discoveries}
+	
+	\begin{columns}
+\begin{column}{0.4\textwidth}
+	\includegraphics[keepaspectratio, width  =\textwidth]{img/chromosomes}
+\end{column}
+	\begin{column}{0.6\textwidth}
+		\begin{itemize}
+			\small
+		\item[1865]  Mendel postulates laws of inheritance \pause
+		\item[1869]  DNA Isolated - though it was unclear what its relevence was unclear \pause
+		\item[1882] Discovery of the fibrous network of "chromatin" (\textit{stainable material}) and chromosomes within nuclei \pause
+		\item[1902-6]  Sutton-Boveri chromosome theory - the segregation of chromosomes during meiosis matches the segregation pattern of Mendel’s laws \pause
+		\item[1915] Morgan demonstrated that chromosomes carry genes, and also discovered genetic linkage\textsuperscript{\textit{won Nobel Prize in 1933}}
+
+	\end{itemize}
+	\end{column}
+
+	\end{columns}
+		\blfootnote{Drawing of mitosis by Walther Flemming 1882}
+
+	
+\end{frame}
+
+\begin{frame}
+	
+\frametitle{Chromosomes}
+
+\begin{columns}
+	
+\begin{column}{0.4\textwidth}
+	\begin{itemize}
+	\item A chromosome is a string-like structure holding the genetic material of an organism
+	\item  The figure shows a micrograph of fluorescently stained loblolly pine chromosomes
+\end{itemize}
+\end{column}
+\begin{column}{0.6\textwidth}
+			\includegraphics[keepaspectratio, width  =\textwidth]{img/loblollyChroms}
+\end{column}
+\end{columns}
+\blfootnote{We will only cover the inheritance of chromosomes here and leave detailed molecular features about DNA and chromosomes to next week}
+\end{frame}
+
+\begin{frame}
+	\frametitle{Conifer Life Cycle}
+	\begin{columns}
+	\begin{column}{0.8\textwidth}
+	\includegraphics[keepaspectratio, width  =\textwidth]{img/coniferLifeCycle}
+	\end{column}
+	\begin{column}{0.3\textwidth}
+	\small 	 The specific stages of the lifecycles vary across taxa, the take home message here is that meiosis produces \textit{haploid} gametes	 \blfootnote{ Modified from Neale et al 2014 BMC Genomics}
+	\end{column}
+	\end{columns}
+
+\end{frame}
+
+
+\begin{frame}
+	\frametitle{Homologous chromosomes}
+
+\begin{columns}
+
+	\begin{column}{0.5\textwidth}
+\begin{itemize}
+	\item[] Chromosomes are in pairs except in gametes (pollen and ovules)
+
+	\item Each pair of chromosomes are called homologous chromosomes, one is carried in the pollen, the other in the ovule
+	\item Each member of a pair carries the same genes (except allelic variation)
+\end{itemize}
+\end{column}
+	\begin{column}{0.5\textwidth}
+	\includegraphics[keepaspectratio, width  =\textwidth]{img/homologousChroms}
+	\vspace{10pt}\\
+	
+		\tiny	\textbf{Karyotype} (chromosome configuration) of Maize	\blfootnote{Modified from Mondin et al 2014 Front. Plant Sci.}
+	\includegraphics[keepaspectratio, width  =\textwidth]{img/maizeKaryotype}
+
+
+\end{column}
+\end{columns}
+
+\end{frame}
+
+
+
+\begin{frame}
+	\frametitle{Confirming Mendel's First Law}
+	
+	\begin{columns}
+		
+		\begin{column}{0.5\textwidth}
+			\begin{itemize}
+
+\small 
+\item[]	\textbf{The law of segregation: } each individual possesses a pair of \st{particles}  homologous chromosomes and each parent passes one of these randomly to its offspring\\
+\vspace{20pt}
+
+\item[] The First Law helped to figure out the genetic features of chromosomes, while the discovery of chromosomes and how they are transmitted confirms the First Law 
+				
+			\end{itemize}
+		\end{column}
+		\begin{column}{0.5\textwidth}
+			\includegraphics[keepaspectratio, width  =\textwidth]{img/homologousChroms}
+			\vspace{10pt}\\
+			
+			\tiny	\textbf{Karyotype} (chromosome configuration) of Maize	\blfootnote{Modified from Mondin et al 2014 Front. Plant Sci.}
+			\includegraphics[keepaspectratio, width  =\textwidth]{img/maizeKaryotype}
+			
+			
+		\end{column}
+	\end{columns}
+	
+\end{frame}
+
+
+
+
+\begin{frame}
+	\frametitle{Confirming Mendel's Second Law}
+	
+	\begin{columns}
+		
+		\begin{column}{0.5\textwidth}
+			\begin{itemize}
+				
+				\small 
+				\item[]	\textbf{The law of independant assortment:} traits are inherited independently of one another \
+				\vspace{10pt}
+				
+				\item[] During meiosis, different chromosome are replicated and segregate independently
+								\vspace{10pt}
+				\item[] If a pair of genes are located on different chromosomes, they obey the Second Law
+				
+			\end{itemize}
+		\end{column}
+		\begin{column}{0.5\textwidth}
+			\includegraphics[keepaspectratio, width  =\textwidth]{img/independentAssortment}
+
+					
+			
+		\end{column}
+	\end{columns}
+	
+\end{frame}
+
+
+
+
+\begin{frame}
+
+\begin{center}
+\frametitle{Chromosome Combinations}
+			\includegraphics[keepaspectratio, width  =0.3\textwidth]{img/loblollyChroms}\\
+			
+What is the probability that crossing two loblolly pines will result in two genetically identical offspring?
+\end{center}
+\begin{itemize}
+	\item 2 pairs of chromosomes  $= 4$ combinations 
+	\item 12 pairs in loblolly pine, How many combinations?\pause 
+	\item $= 2^{12} = 4,096$ combinations
+	\item So, very small chance for a particular cross to lead to 2 genetically identical offspring 
+\end{itemize}
+
+
+\end{frame}
 
 %%% Slide 13
+
+
+%%% Slide 3
+\begin{frame}	
+
+	\Large \textbf{Genetics is the study of genes}, of variation and heredity across all branches of the tree of life	
+	
+	
+\end{frame}
+
 
 \begin{frame}
 	
@@ -990,16 +1230,6 @@ If we take this model to the limit of an infinite number of genes, each making a
 
 
 \begin{frame}
-	\frametitle{A Question for Next Lecture...}
-	\begin{center}
-		\includegraphics[keepaspectratio,width=3.5in]{img/albino} \\
-		Albinism is caused by a recessive lethal allele\\
-		Seedlings with albinism have no chlorophyll, thus no photosynthesis\\
-		How come tree populations still carry this allele? 
-	\end{center}
-\end{frame}
-
-\begin{frame}
 	
 	\frametitle{Learning Outcomes}
 	
@@ -1014,6 +1244,16 @@ If we take this model to the limit of an infinite number of genes, each making a
 \end{frame}
 
 %%% Slide 15
+
+\begin{frame}
+	\frametitle{A Question to Think About...}
+	\begin{center}
+		\includegraphics[keepaspectratio,width=3.5in]{img/albino} \\
+		Albinism is caused by a recessive lethal allele\\
+		Seedlings with albinism have no chlorophyll, thus no photosynthesis\\
+		How come tree populations still carry this allele? 
+	\end{center}
+\end{frame}
 
 \begin{frame}[fragile]
 	\frametitle{Extra Material}
@@ -1048,7 +1288,6 @@ hist(
 %%% Slide 17
 \end{document}
 
-The Mendelian Biometrician debate was rather fierce. ``Mr. Bateson devotes many words to these questions, but one cannot help feeling that his speculations would have had more value had he kept his emotions under better control; the style and method of the religious revivalist are ill-suited to scientific controversy. It is difficult to speak with patience either of the turgid and bombastic preface to 'Mendel’s Principles,' with its reference to Scribes and Pharisees, and its Carlylean inversions of sentence, or of the grossly and gratuitously offensive reply to Professor Weldon and the almost equally offensive adulation of Mr. Galton and Professor Pearson  Yule 1990}
 
 
 
