@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.2)  22 JAN 2025 21:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.7)  23 JAN 2025 13:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1671,7 +1671,7 @@ Package rerunfilecheck Info: File `Lecture_1.4.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  28982 strings out of 474116
- 566489 string characters out of 5743682
+ 566489 string characters out of 5743683
  1938187 words of memory out of 5000000
  50633 multiletter control sequences out of 15000+600000
  575194 words of font info for 96 fonts, out of 8000000 for 9000
