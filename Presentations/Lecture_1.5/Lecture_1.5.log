@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.7)  23 JAN 2025 13:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.2)  27 JAN 2025 21:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -698,66 +698,37 @@ y
 \beamer@dimb=\dimen293
 )
 (/usr/local/texlive/2024/texmf-dist/tex/latex/beamer/beamerouterthemedefault.st
-y))) (/usr/local/texlive/2024/texmf-dist/tex/latex/pgf/utilities/pgfpages.sty
-Package: pgfpages 2011/01/05 ver 0.02
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/tools/calc.sty
-Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count337
-\calc@Bcount=\count338
-\calc@Adimen=\dimen294
-\calc@Bdimen=\dimen295
-\calc@Askip=\skip65
-\calc@Bskip=\skip66
-LaTeX Info: Redefining \setlength on input line 80.
-LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count339
-\calc@Cskip=\skip67
-)
-\pgf@logicalpages=\count340
-\pgf@firstshipout=\count341
-\pgf@lastshipout=\count342
-\pgf@currentshipout=\count343
-\pgf@cpn=\count344
-\pgf@shipoutnextto=\count345
-\pgfphysicalheight=\dimen296
-\pgfphysicalwidth=\dimen297
-\pgfpages@shipoutbox=\box76
-)
-\pgfpages@box@1=\box77
-\pgfpages@box@2=\box78
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/enumitem/enumitem.sty
+y))) (/usr/local/texlive/2024/texmf-dist/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
-\labelindent=\skip68
-\enit@outerparindent=\dimen298
+\labelindent=\skip65
+\enit@outerparindent=\dimen294
 \enit@toks=\toks46
-\enit@inbox=\box79
-\enit@count@id=\count346
-\enitdp@description=\count347
+\enit@inbox=\box76
+\enit@count@id=\count337
+\enitdp@description=\count338
 )
 (/usr/local/texlive/2024/texmf-dist/tex/latex/listings/listings.sty
-\lst@mode=\count348
-\lst@gtempboxa=\box80
+\lst@mode=\count339
+\lst@gtempboxa=\box77
 \lst@token=\toks47
-\lst@length=\count349
-\lst@currlwidth=\dimen299
-\lst@column=\count350
-\lst@pos=\count351
-\lst@lostspace=\dimen300
-\lst@width=\dimen301
-\lst@newlines=\count352
-\lst@lineno=\count353
-\lst@maxwidth=\dimen302
+\lst@length=\count340
+\lst@currlwidth=\dimen295
+\lst@column=\count341
+\lst@pos=\count342
+\lst@lostspace=\dimen296
+\lst@width=\dimen297
+\lst@newlines=\count343
+\lst@lineno=\count344
+\lst@maxwidth=\dimen298
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/listings/lstpatch.sty
 File: lstpatch.sty 2024/02/21 1.10 (Carsten Heinz)
 )
 (/usr/local/texlive/2024/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2024/02/21 1.10 (Carsten Heinz)
-\c@lstnumber=\count354
-\lst@skipnumbers=\count355
-\lst@framebox=\box81
+\c@lstnumber=\count345
+\lst@skipnumbers=\count346
+\lst@framebox=\box78
 )
 (/usr/local/texlive/2024/texmf-dist/tex/latex/listings/listings.cfg
 File: listings.cfg 2024/02/21 1.10 listings configuration
@@ -775,7 +746,7 @@ Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
 \XKV@toks=\toks48
 \XKV@tempa@toks=\toks49
 )
-\XKV@depth=\count356
+\XKV@depth=\count347
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
 (/usr/local/texlive/2024/texmf-dist/tex/latex/adjustbox/adjcalc.sty
@@ -787,43 +758,43 @@ Package: trimclip 2020/08/19 v1.2 Trim and clip general TeX material
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/collectbox/collectbox.sty
 Package: collectbox 2022/10/17 v0.4c Collect macro arguments as boxes
-\collectedbox=\box82
+\collectedbox=\box79
 )
-\tc@llx=\dimen303
-\tc@lly=\dimen304
-\tc@urx=\dimen305
-\tc@ury=\dimen306
+\tc@llx=\dimen299
+\tc@lly=\dimen300
+\tc@urx=\dimen301
+\tc@ury=\dimen302
 Package trimclip Info: Using driver 'tc-pdftex.def'.
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/adjustbox/tc-pdftex.def
 File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
 ))
-\adjbox@Width=\dimen307
-\adjbox@Height=\dimen308
-\adjbox@Depth=\dimen309
-\adjbox@Totalheight=\dimen310
-\adjbox@pwidth=\dimen311
-\adjbox@pheight=\dimen312
-\adjbox@pdepth=\dimen313
-\adjbox@ptotalheight=\dimen314
+\adjbox@Width=\dimen303
+\adjbox@Height=\dimen304
+\adjbox@Depth=\dimen305
+\adjbox@Totalheight=\dimen306
+\adjbox@pwidth=\dimen307
+\adjbox@pheight=\dimen308
+\adjbox@pdepth=\dimen309
+\adjbox@ptotalheight=\dimen310
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
 Package: ifoddpage 2022/10/18 v1.2 Conditionals for odd/even page detection
-\c@checkoddpage=\count357
+\c@checkoddpage=\count348
 )
 (/usr/local/texlive/2024/texmf-dist/tex/latex/varwidth/varwidth.sty
 Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
-\@vwid@box=\box83
-\sift@deathcycles=\count358
-\@vwid@loff=\dimen315
-\@vwid@roff=\dimen316
+\@vwid@box=\box80
+\sift@deathcycles=\count349
+\@vwid@loff=\dimen311
+\@vwid@roff=\dimen312
 ))
 (/usr/local/texlive/2024/texmf-dist/tex/latex/multirow/multirow.sty
 Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
-\multirow@colwidth=\skip69
-\multirow@cntb=\count359
-\multirow@dima=\skip70
-\bigstrutjot=\dimen317
+\multirow@colwidth=\skip66
+\multirow@cntb=\count350
+\multirow@dima=\skip67
+\bigstrutjot=\dimen313
 )
 (/usr/local/texlive/2024/texmf-dist/tex/generic/soul/soul.sty
 Package: soul 2023-06-14 v3.1 Permit use of UTF-8 characters in soul (HO)
@@ -836,38 +807,38 @@ Package: soul-ori 2023-06-14 v3.1 letterspacing/underlining (mf)
 \SOUL@cmds=\toks53
 \SOUL@buffer=\toks54
 \SOUL@token=\toks55
-\SOUL@syllgoal=\dimen318
-\SOUL@syllwidth=\dimen319
-\SOUL@charkern=\dimen320
-\SOUL@hyphkern=\dimen321
-\SOUL@dimen=\dimen322
-\SOUL@dimeni=\dimen323
-\SOUL@minus=\count360
-\SOUL@comma=\count361
-\SOUL@apo=\count362
-\SOUL@grave=\count363
-\SOUL@spaceskip=\skip71
-\SOUL@ttwidth=\dimen324
-\SOUL@uldp=\dimen325
-\SOUL@ulht=\dimen326
+\SOUL@syllgoal=\dimen314
+\SOUL@syllwidth=\dimen315
+\SOUL@charkern=\dimen316
+\SOUL@hyphkern=\dimen317
+\SOUL@dimen=\dimen318
+\SOUL@dimeni=\dimen319
+\SOUL@minus=\count351
+\SOUL@comma=\count352
+\SOUL@apo=\count353
+\SOUL@grave=\count354
+\SOUL@spaceskip=\skip68
+\SOUL@ttwidth=\dimen320
+\SOUL@uldp=\dimen321
+\SOUL@ulht=\dimen322
 )
 (/usr/local/texlive/2024/texmf-dist/tex/generic/etexcmds/etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 ))
 (/usr/local/texlive/2024/texmf-dist/tex/latex/tools/array.sty
 Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
-\col@sep=\dimen327
-\ar@mcellbox=\box84
-\extrarowheight=\dimen328
+\col@sep=\dimen323
+\ar@mcellbox=\box81
+\extrarowheight=\dimen324
 \NC@list=\toks56
-\extratabsurround=\skip72
-\backup@length=\skip73
-\ar@cellbox=\box85
+\extratabsurround=\skip69
+\backup@length=\skip70
+\ar@cellbox=\box82
 )
 (/usr/local/texlive/2024/texmf-dist/tex/latex/makecell/makecell.sty
 Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
-\rotheadsize=\dimen329
-\c@nlinenum=\count364
+\rotheadsize=\dimen325
+\c@nlinenum=\count355
 \TeXr@lab=\toks57
 )
 (/usr/local/texlive/2024/texmf-dist/tex/latex/moloch/beamerthememoloch.sty
@@ -880,6 +851,19 @@ Package: pgfopts 2014/07/10 v2.1a LaTeX package options with pgfkeys
 )
 (/usr/local/texlive/2024/texmf-dist/tex/latex/moloch/beamerinnerthememoloch.sty
 Package: beamerinnerthememoloch 2024-03-06 v0.3.0 Moloch inner theme
+(/usr/local/texlive/2024/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count356
+\calc@Bcount=\count357
+\calc@Adimen=\dimen326
+\calc@Bdimen=\dimen327
+\calc@Askip=\skip71
+\calc@Bskip=\skip72
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count358
+\calc@Cskip=\skip73
+)
 (/usr/local/texlive/2024/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
 (/usr/local/texlive/2024/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
 Package: pgf 2023-01-15 v3.1.10 (3.1.10)
@@ -887,7 +871,7 @@ Package: pgf 2023-01-15 v3.1.10 (3.1.10)
 (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.cod
 e.tex
 File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfnodeparttextbox=\box86
+\pgfnodeparttextbox=\box83
 )
 (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.
 tex
@@ -896,8 +880,8 @@ File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
 (/usr/local/texlive/2024/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
 -0-65.sty
 Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
-\pgf@nodesepstart=\dimen330
-\pgf@nodesepend=\dimen331
+\pgf@nodesepstart=\dimen328
+\pgf@nodesepend=\dimen329
 )
 (/usr/local/texlive/2024/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
 -1-18.sty
@@ -906,8 +890,8 @@ Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
 (/usr/local/texlive/2024/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
 (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
 Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
-\pgffor@iter=\dimen332
-\pgffor@skip=\dimen333
+\pgffor@iter=\dimen330
+\pgffor@skip=\dimen331
 \pgffor@stack=\toks60
 \pgffor@toks=\toks61
 ))
@@ -918,34 +902,34 @@ Package: tikz 2023-01-15 v3.1.10 (3.1.10)
 (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothan
 dlers.code.tex
 File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@plot@mark@count=\count365
-\pgfplotmarksize=\dimen334
+\pgf@plot@mark@count=\count359
+\pgfplotmarksize=\dimen332
 )
-\tikz@lastx=\dimen335
-\tikz@lasty=\dimen336
-\tikz@lastxsaved=\dimen337
-\tikz@lastysaved=\dimen338
-\tikz@lastmovetox=\dimen339
-\tikz@lastmovetoy=\dimen340
-\tikzleveldistance=\dimen341
-\tikzsiblingdistance=\dimen342
-\tikz@figbox=\box87
-\tikz@figbox@bg=\box88
-\tikz@tempbox=\box89
-\tikz@tempbox@bg=\box90
-\tikztreelevel=\count366
-\tikznumberofchildren=\count367
-\tikznumberofcurrentchild=\count368
-\tikz@fig@count=\count369
+\tikz@lastx=\dimen333
+\tikz@lasty=\dimen334
+\tikz@lastxsaved=\dimen335
+\tikz@lastysaved=\dimen336
+\tikz@lastmovetox=\dimen337
+\tikz@lastmovetoy=\dimen338
+\tikzleveldistance=\dimen339
+\tikzsiblingdistance=\dimen340
+\tikz@figbox=\box84
+\tikz@figbox@bg=\box85
+\tikz@tempbox=\box86
+\tikz@tempbox@bg=\box87
+\tikztreelevel=\count360
+\tikznumberofchildren=\count361
+\tikznumberofcurrentchild=\count362
+\tikz@fig@count=\count363
 
 (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.cod
 e.tex
 File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfmatrixcurrentrow=\count370
-\pgfmatrixcurrentcolumn=\count371
-\pgf@matrix@numberofcolumns=\count372
+\pgfmatrixcurrentrow=\count364
+\pgfmatrixcurrentcolumn=\count365
+\pgf@matrix@numberofcolumns=\count366
 )
-\tikz@expandcount=\count373
+\tikz@expandcount=\count367
 
 (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
 s/tikzlibrarytopaths.code.tex
@@ -969,8 +953,8 @@ Package: beamerfontthememoloch 2024-03-06 v0.3.0 Moloch font theme
    defining Unicode char U+0313 (decimal 787)
  (/usr/local/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-02-20 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count374
-\l__pdf_internal_box=\box91
+\l__color_backend_stack_int=\count368
+\l__pdf_internal_box=\box88
 ) (./Lecture_1.5.aux)
 \openout1 = `Lecture_1.5.aux'.
 
@@ -1029,16 +1013,16 @@ LaTeX Font Info:    ... okay on input line 64.
 
 (/usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count375
-\scratchdimen=\dimen343
-\scratchbox=\box92
-\nofMPsegments=\count376
-\nofMParguments=\count377
+\scratchcounter=\count369
+\scratchdimen=\dimen341
+\scratchbox=\box89
+\nofMPsegments=\count370
+\nofMParguments=\count371
 \everyMPshowfont=\toks62
-\MPscratchCnt=\count378
-\MPscratchDim=\dimen344
-\MPnumerator=\count379
-\makeMPintoPDFobject=\count380
+\MPscratchCnt=\count372
+\MPscratchDim=\dimen342
+\MPnumerator=\count373
+\makeMPintoPDFobject=\count374
 \everyMPtoPDFconversion=\toks63
 ) (/usr/local/texlive/2024/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -1132,8 +1116,10 @@ Dictionary: translator-numbers-dictionary, Language: English
 tionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-\c@lstlisting=\count381
- (./Lecture_1.5.nav)
+\c@lstlisting=\count375
+ (./Lecture_1.5.nav) [1
+
+{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 LaTeX Font Info:    Trying to load font information for U+msa on input line 87.
 
 
@@ -1153,257 +1139,129 @@ ut line 87.
 File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/ma
 thkerncmss.
 )
-<img/waldo.png, id=13, 495.8525pt x 392.46625pt>
+<img/waldo.png, id=22, 495.8525pt x 392.46625pt>
 File: img/waldo.png Graphic file (type png)
 <use img/waldo.png>
 Package pdftex.def Info: img/waldo.png  used on input line 87.
 (pdftex.def)             Requested size: 153.64493pt x 121.60938pt.
  [2
 
-{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
-pdfTeX warning (ext4): destination with the same identifier (name{Navigation1})
- has been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.87 \end{frame}
-                
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
-been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.87 \end{frame}
-                
-
-]
-<img/mutationRates.jpeg, id=25, 2884.7775pt x 3787.39969pt>
+ <./img/waldo.png>]
+<img/mutationRates.jpeg, id=31, 2884.7775pt x 3787.39969pt>
 File: img/mutationRates.jpeg Graphic file (type jpg)
 <use img/mutationRates.jpeg>
 Package pdftex.def Info: img/mutationRates.jpeg  used on input line 102.
 (pdftex.def)             Requested size: 122.9164pt x 161.35245pt.
-<img/logan.png, id=26, 1284.8pt x 1817.79124pt>
+<img/logan.png, id=32, 1284.8pt x 1817.79124pt>
 File: img/logan.png Graphic file (type png)
 <use img/logan.png>
 Package pdftex.def Info: img/logan.png  used on input line 102.
 (pdftex.def)             Requested size: 153.64493pt x 217.37663pt.
  [3
 
-
-pdfTeX warning (ext4): destination with the same identifier (name{Navigation2})
- has been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.102 \end{frame}
-                 
-pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
-been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.102 \end{frame}
-                 
-
- <./img/waldo.png>]
-<img/logantalking.jpeg, id=34, 1027.84pt x 770.88pt>
+ <./img/mutationRates.jpeg> <./img/logan.png>]
+<img/logantalking.jpeg, id=38, 1027.84pt x 770.88pt>
 File: img/logantalking.jpeg Graphic file (type jpg)
 <use img/logantalking.jpeg>
 Package pdftex.def Info: img/logantalking.jpeg  used on input line 117.
 (pdftex.def)             Requested size: 184.3758pt x 138.2819pt.
- [4
 
+[4
 
-pdfTeX warning (ext4): destination with the same identifier (name{Navigation3})
- has been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.117 \end{frame}
-                 
-pdfTeX warning (ext4): destination with the same identifier (name{page.3}) has 
-been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.117 \end{frame}
-                 
-
- <./img/mutationRates.jpeg> <./img/logan.png>]
-<img/loblollyChroms.jpg, id=40, 684.5575pt x 562.1pt>
+ <./img/logantalking.jpeg>]
+<img/loblollyChroms.jpg, id=45, 684.5575pt x 562.1pt>
 File: img/loblollyChroms.jpg Graphic file (type jpg)
 <use img/loblollyChroms.jpg>
 Package pdftex.def Info: img/loblollyChroms.jpg  used on input line 137.
 (pdftex.def)             Requested size: 101.40622pt x 83.26497pt.
-<img/chromosomeDiagram.jpg, id=41, 338.26375pt x 644.4075pt>
+<img/chromosomeDiagram.jpg, id=46, 338.26375pt x 644.4075pt>
 File: img/chromosomeDiagram.jpg Graphic file (type jpg)
 <use img/chromosomeDiagram.jpg>
 Package pdftex.def Info: img/chromosomeDiagram.jpg  used on input line 137.
 (pdftex.def)             Requested size: 101.40622pt x 193.18608pt.
-<img/DNA_cartoon.png, id=42, 612.2875pt x 610.28pt>
+<img/DNA_cartoon.png, id=47, 612.2875pt x 610.28pt>
 File: img/DNA_cartoon.png Graphic file (type png)
 <use img/DNA_cartoon.png>
 Package pdftex.def Info: img/DNA_cartoon.png  used on input line 137.
 (pdftex.def)             Requested size: 101.40622pt x 101.07364pt.
  [5
 
+ <./img/loblollyChroms.jpg> <./img/chromosomeDiagram.jpg> <./img/DNA_cartoon.pn
+g>]
+File: img/loblollyChroms.jpg Graphic file (type jpg)
+<use img/loblollyChroms.jpg>
+Package pdftex.def Info: img/loblollyChroms.jpg  used on input line 137.
+(pdftex.def)             Requested size: 101.40622pt x 83.26497pt.
+File: img/chromosomeDiagram.jpg Graphic file (type jpg)
+<use img/chromosomeDiagram.jpg>
+Package pdftex.def Info: img/chromosomeDiagram.jpg  used on input line 137.
+(pdftex.def)             Requested size: 101.40622pt x 193.18608pt.
+File: img/DNA_cartoon.png Graphic file (type png)
+<use img/DNA_cartoon.png>
+Package pdftex.def Info: img/DNA_cartoon.png  used on input line 137.
+(pdftex.def)             Requested size: 101.40622pt x 101.07364pt.
+ [6
 
-pdfTeX warning (ext4): destination with the same identifier (name{Navigation4})
- has been already used, duplicate ignored
+]
+File: img/loblollyChroms.jpg Graphic file (type jpg)
+<use img/loblollyChroms.jpg>
+Package pdftex.def Info: img/loblollyChroms.jpg  used on input line 137.
+(pdftex.def)             Requested size: 101.40622pt x 83.26497pt.
+File: img/chromosomeDiagram.jpg Graphic file (type jpg)
+<use img/chromosomeDiagram.jpg>
+Package pdftex.def Info: img/chromosomeDiagram.jpg  used on input line 137.
+(pdftex.def)             Requested size: 101.40622pt x 193.18608pt.
+File: img/DNA_cartoon.png Graphic file (type png)
+<use img/DNA_cartoon.png>
+Package pdftex.def Info: img/DNA_cartoon.png  used on input line 137.
+(pdftex.def)             Requested size: 101.40622pt x 101.07364pt.
+ [7
 
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.137 \end{frame}
-                 
-pdfTeX warning (ext4): destination with the same identifier (name{page.4}) has 
-been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.137 \end{frame}
-                 
-
- <./img/logantalking.jpeg>]
-<img/dogma.png, id=49, 556.0775pt x 250.9375pt>
+]
+<img/dogma.png, id=65, 556.0775pt x 250.9375pt>
 File: img/dogma.png Graphic file (type png)
 <use img/dogma.png>
 Package pdftex.def Info: img/dogma.png  used on input line 151.
 (pdftex.def)             Requested size: 307.28987pt x 138.67079pt.
- [6
+ [8
 
-
-pdfTeX warning (ext4): destination with the same identifier (name{Navigation5})
- has been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.151 \end{frame}
-                 
-pdfTeX warning (ext4): destination with the same identifier (name{page.5}) has 
-been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.151 \end{frame}
-                 
-
- <./img/loblollyChroms.jpg> <./img/chromosomeDiagram.jpg> <./img/DNA_cartoon.pn
-g>]
-<img/geneOnDNA.png, id=56, 803.0pt x 1349.04pt>
+ <./img/dogma.png>]
+<img/geneOnDNA.png, id=74, 803.0pt x 1349.04pt>
 File: img/geneOnDNA.png Graphic file (type png)
 <use img/geneOnDNA.png>
 Package pdftex.def Info: img/geneOnDNA.png  used on input line 180.
 (pdftex.def)             Requested size: 138.2795pt x 232.29796pt.
- [7
+ [9
 
-
-pdfTeX warning (ext4): destination with the same identifier (name{Navigation6})
- has been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.180 \end{frame}
-                 
-pdfTeX warning (ext4): destination with the same identifier (name{page.6}) has 
-been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.180 \end{frame}
-                 
-
- <./img/dogma.png>]
-<img/dna2rna2protein.png, id=65, 629.35126pt x 602.25pt>
+ <./img/geneOnDNA.png>]
+<img/dna2rna2protein.png, id=81, 629.35126pt x 602.25pt>
 File: img/dna2rna2protein.png Graphic file (type png)
 <use img/dna2rna2protein.png>
 Package pdftex.def Info: img/dna2rna2protein.png  used on input line 206.
 (pdftex.def)             Requested size: 153.64493pt x 147.02414pt.
- [8
+ [10
 
-
-pdfTeX warning (ext4): destination with the same identifier (name{Navigation7})
- has been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.206 \end{frame}
-                 
-pdfTeX warning (ext4): destination with the same identifier (name{page.7}) has 
-been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.206 \end{frame}
-                 
-
- <./img/geneOnDNA.png>]
-<img/rna_v_dna.png, id=74, 752.8125pt x 524.96124pt>
+ <./img/dna2rna2protein.png>]
+<img/rna_v_dna.png, id=90, 752.8125pt x 524.96124pt>
 File: img/rna_v_dna.png Graphic file (type png)
 <use img/rna_v_dna.png>
 Package pdftex.def Info: img/rna_v_dna.png  used on input line 221.
 (pdftex.def)             Requested size: 245.83282pt x 171.42743pt.
- [9
-
-
-pdfTeX warning (ext4): destination with the same identifier (name{Navigation8})
- has been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.221 \end{frame}
-                 
-pdfTeX warning (ext4): destination with the same identifier (name{page.8}) has 
-been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.221 \end{frame}
-                 
-
- <./img/dna2rna2protein.png>] [10
-
-
-pdfTeX warning (ext4): destination with the same identifier (name{Navigation9})
- has been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.241 }\end{frame}
-                  
-pdfTeX warning (ext4): destination with the same identifier (name{page.9}) has 
-been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.241 }\end{frame}
-                  
+ [11
 
  <./img/rna_v_dna.png>]
-<img/translation.png, id=88, 629.35126pt x 908.39375pt>
+[12
+
+]
+<img/translation.png, id=103, 629.35126pt x 908.39375pt>
 File: img/translation.png Graphic file (type png)
 <use img/translation.png>
 Package pdftex.def Info: img/translation.png  used on input line 270.
 (pdftex.def)             Requested size: 138.2795pt x 199.58388pt.
- [11
+ [13
 
-
-pdfTeX warning (ext4): destination with the same identifier (name{Navigation10}
-) has been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.270 \end{frame}
-                 
-pdfTeX warning (ext4): destination with the same identifier (name{page.10}) has
- been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.270 \end{frame}
-                 
-
-]
-<img/plantCell.png, id=96, 642.4pt x 495.8525pt>
+ <./img/translation.png>]
+<img/plantCell.png, id=113, 642.4pt x 495.8525pt>
 File: img/plantCell.png Graphic file (type png)
 <use img/plantCell.png>
 Package pdftex.def Info: img/plantCell.png  used on input line 276.
@@ -1412,197 +1270,89 @@ Package pdftex.def Info: img/plantCell.png  used on input line 276.
 Overfull \vbox (4.28789pt too high) detected at line 276
  []
 
-[12
+[14
 
-
-pdfTeX warning (ext4): destination with the same identifier (name{Navigation11}
-) has been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.276 \end{frame}
-                 
-pdfTeX warning (ext4): destination with the same identifier (name{page.11}) has
- been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.276 \end{frame}
-                 
-
- <./img/translation.png>]
+ <./img/plantCell.png>]
 File: img/translation.png Graphic file (type png)
 <use img/translation.png>
 Package pdftex.def Info: img/translation.png  used on input line 303.
 (pdftex.def)             Requested size: 138.2795pt x 199.58388pt.
-<img/geneticCode.png, id=104, 451.6875pt x 395.4775pt>
+<img/geneticCode.png, id=120, 451.6875pt x 395.4775pt>
 File: img/geneticCode.png Graphic file (type png)
 <use img/geneticCode.png>
 Package pdftex.def Info: img/geneticCode.png  used on input line 303.
 (pdftex.def)             Requested size: 138.2795pt x 121.07002pt.
- [13
+ [15
 
-
-pdfTeX warning (ext4): destination with the same identifier (name{Navigation12}
-) has been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.303 \end{frame}
-                 
-pdfTeX warning (ext4): destination with the same identifier (name{page.12}) has
- been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.303 \end{frame}
-                 
-
- <./img/plantCell.png>]
-<img/geneStructure.png, id=112, 793.96625pt x 286.06876pt>
+ <./img/geneticCode.png>]
+<img/geneStructure.png, id=128, 793.96625pt x 286.06876pt>
 File: img/geneStructure.png Graphic file (type png)
 <use img/geneStructure.png>
 Package pdftex.def Info: img/geneStructure.png  used on input line 311.
 (pdftex.def)             Requested size: 307.28987pt x 110.71954pt.
- [14
+ [16
 
-
-pdfTeX warning (ext4): destination with the same identifier (name{Navigation13}
-) has been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.311 \end{frame}
-                 
-pdfTeX warning (ext4): destination with the same identifier (name{page.13}) has
- been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.311 \end{frame}
-                 
-
- <./img/geneticCode.png>]
-<img/geneStructureCartoon.png, id=120, 2890.8pt x 451.6875pt>
+ <./img/geneStructure.png>]
+<img/geneStructureCartoon.png, id=135, 2890.8pt x 451.6875pt>
 File: img/geneStructureCartoon.png Graphic file (type png)
 <use img/geneStructureCartoon.png>
 Package pdftex.def Info: img/geneStructureCartoon.png  used on input line 323.
 (pdftex.def)             Requested size: 307.28987pt x 48.01097pt.
- [15
+ [17
 
-
-pdfTeX warning (ext4): destination with the same identifier (name{Navigation14}
-) has been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.323 \end{frame}
-                 
-pdfTeX warning (ext4): destination with the same identifier (name{page.14}) has
- been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.323 \end{frame}
-                 
-
- <./img/geneStructure.png>]
+ <./img/geneStructureCartoon.png>]
 Overfull \hbox (10.32307pt too wide) in paragraph at lines 354--354
 [][]  
  []
 
-<img/doug-fir.png, id=127, 451.6875pt x 602.25pt>
+<img/doug-fir.png, id=142, 451.6875pt x 602.25pt>
 File: img/doug-fir.png Graphic file (type png)
 <use img/doug-fir.png>
 Package pdftex.def Info: img/doug-fir.png  used on input line 354.
 (pdftex.def)             Requested size: 92.1879pt x 122.91066pt.
-[16
-
-
-pdfTeX warning (ext4): destination with the same identifier (name{Navigation15}
-) has been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.354 \end{frame}
-                 
-pdfTeX warning (ext4): destination with the same identifier (name{page.15}) has
- been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.354 \end{frame}
-                 
-
- <./img/geneStructureCartoon.png>] [17
-
-
-pdfTeX warning (ext4): destination with the same identifier (name{Navigation16}
-) has been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.366 \end{frame}
-                 
-pdfTeX warning (ext4): destination with the same identifier (name{page.16}) has
- been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.366 \end{frame}
-                 
+[18
 
  <./img/doug-fir.png>]
-<img/bobd.png, id=141, 2956.04375pt x 3375.61125pt>
+Overfull \hbox (10.32307pt too wide) in paragraph at lines 354--354
+[][]  
+ []
+
+File: img/doug-fir.png Graphic file (type png)
+<use img/doug-fir.png>
+Package pdftex.def Info: img/doug-fir.png  used on input line 354.
+(pdftex.def)             Requested size: 92.1879pt x 122.91066pt.
+[19
+
+] [20
+
+] [21
+
+]
+<img/bobd.png, id=167, 2956.04375pt x 3375.61125pt>
 File: img/bobd.png Graphic file (type png)
 <use img/bobd.png>
 Package pdftex.def Info: img/bobd.png  used on input line 372.
 (pdftex.def)             Requested size: 215.10196pt x 245.5883pt.
- [18
+ [22
 
-
-pdfTeX warning (ext4): destination with the same identifier (name{Navigation17}
-) has been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.372 \end{frame}
-                 
-pdfTeX warning (ext4): destination with the same identifier (name{page.17}) has
- been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.372 \end{frame}
-                 
+ <./img/bobd.png>]
+File: img/bobd.png Graphic file (type png)
+<use img/bobd.png>
+Package pdftex.def Info: img/bobd.png  used on input line 372.
+(pdftex.def)             Requested size: 215.10196pt x 245.5883pt.
+ [23
 
 ]
-<img/geneExpressionCartoon.png, id=148, 1949.2825pt x 1182.4175pt>
+<img/geneExpressionCartoon.png, id=180, 1949.2825pt x 1182.4175pt>
 File: img/geneExpressionCartoon.png Graphic file (type png)
 <use img/geneExpressionCartoon.png>
 Package pdftex.def Info: img/geneExpressionCartoon.png  used on input line 402.
 
 (pdftex.def)             Requested size: 153.64493pt x 93.18803pt.
- [19
+ [24
 
-
-pdfTeX warning (ext4): destination with the same identifier (name{Navigation18}
-) has been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.402 \end{frame}
-                 
-pdfTeX warning (ext4): destination with the same identifier (name{page.18}) has
- been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.402 \end{frame}
-                 
-
- <./img/bobd.png>]
-<img/chromatinAccessibilty.png, id=155, 1505.625pt x 784.9325pt>
+ <./img/geneExpressionCartoon.png>]
+<img/chromatinAccessibilty.png, id=187, 1505.625pt x 784.9325pt>
 File: img/chromatinAccessibilty.png Graphic file (type png)
 <use img/chromatinAccessibilty.png>
 Package pdftex.def Info: img/chromatinAccessibilty.png  used on input line 412.
@@ -1612,138 +1362,80 @@ Package pdftex.def Info: img/chromatinAccessibilty.png  used on input line 412.
 Overfull \vbox (2.98457pt too high) detected at line 412
  []
 
-[20
+[25
 
-
-pdfTeX warning (ext4): destination with the same identifier (name{Navigation19}
-) has been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.412 \end{frame}
-                 
-pdfTeX warning (ext4): destination with the same identifier (name{page.19}) has
- been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.412 \end{frame}
-                 
-
- <./img/geneExpressionCartoon.png>]
-<img/initiatingExpression.png, id=163, 702.625pt x 941.5175pt>
+ <./img/chromatinAccessibilty.png>]
+<img/initiatingExpression.png, id=194, 702.625pt x 941.5175pt>
 File: img/initiatingExpression.png Graphic file (type png)
 <use img/initiatingExpression.png>
 Package pdftex.def Info: img/initiatingExpression.png  used on input line 443.
 (pdftex.def)             Requested size: 138.2795pt x 185.29759pt.
- [21
+ [26
 
+ <./img/initiatingExpression.png>]
+File: img/initiatingExpression.png Graphic file (type png)
+<use img/initiatingExpression.png>
+Package pdftex.def Info: img/initiatingExpression.png  used on input line 443.
+(pdftex.def)             Requested size: 138.2795pt x 185.29759pt.
 
-pdfTeX warning (ext4): destination with the same identifier (name{Navigation20}
-) has been already used, duplicate ignored
+[27
 
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.443 \end{frame}
-                 
-pdfTeX warning (ext4): destination with the same identifier (name{page.20}) has
- been already used, duplicate ignored
+]
+File: img/initiatingExpression.png Graphic file (type png)
+<use img/initiatingExpression.png>
+Package pdftex.def Info: img/initiatingExpression.png  used on input line 443.
+(pdftex.def)             Requested size: 138.2795pt x 185.29759pt.
+ [28
 
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.443 \end{frame}
-                 
-
- <./img/chromatinAccessibilty.png>]
+]
 File: img/geneStructureCartoon.png Graphic file (type png)
 <use img/geneStructureCartoon.png>
 Package pdftex.def Info: img/geneStructureCartoon.png  used on input line 457.
 (pdftex.def)             Requested size: 307.28987pt x 48.01097pt.
- [22
+ [29
 
-
-pdfTeX warning (ext4): destination with the same identifier (name{Navigation21}
-) has been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.457 \end{frame}
-                 
-pdfTeX warning (ext4): destination with the same identifier (name{page.21}) has
- been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.457 \end{frame}
-                 
-
- <./img/initiatingExpression.png>]
-<img/altSplicing.png, id=176, 3926.67pt x 1283.79625pt>
+]
+<img/altSplicing.png, id=221, 3926.67pt x 1283.79625pt>
 File: img/altSplicing.png Graphic file (type png)
 <use img/altSplicing.png>
 Package pdftex.def Info: img/altSplicing.png  used on input line 467.
 (pdftex.def)             Requested size: 307.28987pt x 100.45305pt.
- [23
+ [30
 
-
-pdfTeX warning (ext4): destination with the same identifier (name{Navigation22}
-) has been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.467 \end{frame}
-                 
-pdfTeX warning (ext4): destination with the same identifier (name{page.22}) has
- been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.467 \end{frame}
-                 
+ <./img/altSplicing.png>]
+File: img/doug-fir.png Graphic file (type png)
+<use img/doug-fir.png>
+Package pdftex.def Info: img/doug-fir.png  used on input line 489.
+(pdftex.def)             Requested size: 153.64493pt x 204.86337pt.
+ [31
 
 ]
 File: img/doug-fir.png Graphic file (type png)
 <use img/doug-fir.png>
 Package pdftex.def Info: img/doug-fir.png  used on input line 489.
 (pdftex.def)             Requested size: 153.64493pt x 204.86337pt.
- [24
-
-
-pdfTeX warning (ext4): destination with the same identifier (name{Navigation23}
-) has been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.489 \end{frame}
-                 
-pdfTeX warning (ext4): destination with the same identifier (name{page.23}) has
- been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.489 \end{frame}
-                 
-
- <./img/altSplicing.png>] [25
-
-
-pdfTeX warning (ext4): destination with the same identifier (name{Navigation24}
-) has been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.500 \end{frame}
-                 
-pdfTeX warning (ext4): destination with the same identifier (name{page.24}) has
- been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.500 \end{frame}
-                 
+ [32
 
 ]
-<img/loganTalking2.jpeg, id=193, 1027.84pt x 770.88pt>
+File: img/doug-fir.png Graphic file (type png)
+<use img/doug-fir.png>
+Package pdftex.def Info: img/doug-fir.png  used on input line 489.
+(pdftex.def)             Requested size: 153.64493pt x 204.86337pt.
+ [33
+
+]
+File: img/doug-fir.png Graphic file (type png)
+<use img/doug-fir.png>
+Package pdftex.def Info: img/doug-fir.png  used on input line 489.
+(pdftex.def)             Requested size: 153.64493pt x 204.86337pt.
+ [34
+
+] [35
+
+] [36
+
+]
+<img/loganTalking2.jpeg, id=258, 1027.84pt x 770.88pt>
 File: img/loganTalking2.jpeg Graphic file (type jpg)
 <use img/loganTalking2.jpeg>
 Package pdftex.def Info: img/loganTalking2.jpeg  used on input line 513.
@@ -1752,137 +1444,52 @@ Package pdftex.def Info: img/loganTalking2.jpeg  used on input line 513.
 Overfull \vbox (4.61594pt too high) detected at line 513
  []
 
-[26
-
-
-pdfTeX warning (ext4): destination with the same identifier (name{Navigation25}
-) has been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.513 \end{frame}
-                 
-pdfTeX warning (ext4): destination with the same identifier (name{page.25}) has
- been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.513 \end{frame}
-                 
-
-] [27
-
-
-pdfTeX warning (ext4): destination with the same identifier (name{Navigation26}
-) has been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.517 \end{frame}
-                 
-pdfTeX warning (ext4): destination with the same identifier (name{page.26}) has
- been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.517 \end{frame}
-                 
+[37
 
  <./img/loganTalking2.jpeg>]
+File: img/loganTalking2.jpeg Graphic file (type jpg)
+<use img/loganTalking2.jpeg>
+Package pdftex.def Info: img/loganTalking2.jpeg  used on input line 513.
+(pdftex.def)             Requested size: 215.10196pt x 161.32497pt.
+
+Overfull \vbox (4.61594pt too high) detected at line 513
+ []
+
+[38
+
+] [39
+
+]
 File: img/geneOnDNA.png Graphic file (type png)
 <use img/geneOnDNA.png>
 Package pdftex.def Info: img/geneOnDNA.png  used on input line 538.
 (pdftex.def)             Requested size: 122.9164pt x 206.48479pt.
- [28
-
-
-pdfTeX warning (ext4): destination with the same identifier (name{Navigation27}
-) has been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.538 \end{frame}
-                 
-pdfTeX warning (ext4): destination with the same identifier (name{page.27}) has
- been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.538 \end{frame}
-                 
+ [40
 
 ]
-<img/RNA_seq.png, id=210, 2442.12375pt x 1687.30376pt>
+<img/RNA_seq.png, id=280, 2442.12375pt x 1687.30376pt>
 File: img/RNA_seq.png Graphic file (type png)
 <use img/RNA_seq.png>
 Package pdftex.def Info: img/RNA_seq.png  used on input line 545.
 (pdftex.def)             Requested size: 276.559pt x 191.06216pt.
- [29
+ [41
 
-
-pdfTeX warning (ext4): destination with the same identifier (name{Navigation28}
-) has been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.545 \end{frame}
-                 
-pdfTeX warning (ext4): destination with the same identifier (name{page.28}) has
- been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.545 \end{frame}
-                 
-
-]
+ <./img/RNA_seq.png>]
 File: img/dogma.png Graphic file (type png)
 <use img/dogma.png>
 Package pdftex.def Info: img/dogma.png  used on input line 559.
 (pdftex.def)             Requested size: 307.28987pt x 138.67079pt.
- [30
+ [42
 
-
-pdfTeX warning (ext4): destination with the same identifier (name{Navigation29}
-) has been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.559 \end{frame}
-                 
-pdfTeX warning (ext4): destination with the same identifier (name{page.29}) has
- been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.559 \end{frame}
-                 
-
- <./img/RNA_seq.png>]
-<img/rnaReadAlignment.png, id=223, 687.56876pt x 523.9575pt>
+]
+<img/rnaReadAlignment.png, id=293, 687.56876pt x 523.9575pt>
 File: img/rnaReadAlignment.png Graphic file (type png)
 <use img/rnaReadAlignment.png>
 Package pdftex.def Info: img/rnaReadAlignment.png  used on input line 567.
 (pdftex.def)             Requested size: 276.559pt x 210.74655pt.
- [31
+ [43
 
-
-pdfTeX warning (ext4): destination with the same identifier (name{Navigation30}
-) has been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.567 \end{frame}
-                 
-pdfTeX warning (ext4): destination with the same identifier (name{page.30}) has
- been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.567 \end{frame}
-                 
-
-]
+ <./img/rnaReadAlignment.png>]
 Overfull \hbox (10.32307pt too wide) in paragraph at lines 599--599
 [][]  
  []
@@ -1891,91 +1498,34 @@ File: img/doug-fir.png Graphic file (type png)
 <use img/doug-fir.png>
 Package pdftex.def Info: img/doug-fir.png  used on input line 599.
 (pdftex.def)             Requested size: 92.1879pt x 122.91066pt.
-[32
+[44
 
-
-pdfTeX warning (ext4): destination with the same identifier (name{Navigation31}
-) has been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.599 \end{frame}
-                 
-pdfTeX warning (ext4): destination with the same identifier (name{page.31}) has
- been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.599 \end{frame}
-                 
-
- <./img/rnaReadAlignment.png>]
-<img/sequenceConservation.png, id=235, 2002.48125pt x 1196.47pt>
+]
+<img/sequenceConservation.png, id=306, 2002.48125pt x 1196.47pt>
 File: img/sequenceConservation.png Graphic file (type png)
 <use img/sequenceConservation.png>
 Package pdftex.def Info: img/sequenceConservation.png  used on input line 610.
 (pdftex.def)             Requested size: 276.559pt x 165.24083pt.
- [33
+ [45
 
-
-pdfTeX warning (ext4): destination with the same identifier (name{Navigation32}
-) has been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.610 \end{frame}
-                 
-pdfTeX warning (ext4): destination with the same identifier (name{page.32}) has
- been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.610 \end{frame}
-                 
+ <./img/sequenceConservation.png>]
+File: img/sequenceConservation.png Graphic file (type png)
+<use img/sequenceConservation.png>
+Package pdftex.def Info: img/sequenceConservation.png  used on input line 610.
+(pdftex.def)             Requested size: 276.559pt x 165.24083pt.
+ [46
 
 ]
-<img/junk.png, id=242, 401.5pt x 226.8475pt>
+<img/junk.png, id=318, 401.5pt x 226.8475pt>
 File: img/junk.png Graphic file (type png)
 <use img/junk.png>
 Package pdftex.def Info: img/junk.png  used on input line 636.
 (pdftex.def)             Requested size: 138.2795pt x 78.12747pt.
- [34
+ [47
 
+ <./img/junk.png>] [48
 
-pdfTeX warning (ext4): destination with the same identifier (name{Navigation33}
-) has been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.636 \end{frame}
-                 
-pdfTeX warning (ext4): destination with the same identifier (name{page.33}) has
- been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.636 \end{frame}
-                 
-
- <./img/sequenceConservation.png>] [35
-
-
-pdfTeX warning (ext4): destination with the same identifier (name{Navigation34}
-) has been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.648 \end{frame}
-                 
-pdfTeX warning (ext4): destination with the same identifier (name{page.34}) has
- been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.648 \end{frame}
-                 
-
- <./img/junk.png>]
+]
 \tf@nav=\write6
 \openout6 = `Lecture_1.5.nav'.
 
@@ -1985,25 +1535,8 @@ l.648 \end{frame}
 \tf@snm=\write8
 \openout8 = `Lecture_1.5.snm'.
 
- [36
 
-
-pdfTeX warning (ext4): destination with the same identifier (name{Navigation35}
-) has been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.650 \end{document}
-                    
-pdfTeX warning (ext4): destination with the same identifier (name{page.35}) has
- been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.650 \end{document}
-                    
-
-] (./Lecture_1.5.aux)
+(./Lecture_1.5.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
@@ -2012,13 +1545,13 @@ Package rerunfilecheck Info: File `Lecture_1.5.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 28863 strings out of 474116
- 566047 string characters out of 5743683
- 1941187 words of memory out of 5000000
- 50565 multiletter control sequences out of 15000+600000
- 576370 words of font info for 101 fonts, out of 8000000 for 9000
+ 28702 strings out of 474116
+ 561054 string characters out of 5743682
+ 1939187 words of memory out of 5000000
+ 50382 multiletter control sequences out of 15000+600000
+ 576014 words of font info for 100 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,12n,123p,444b,778s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 128i,12n,123p,428b,778s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb>
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb><
 /usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></
@@ -2026,16 +1559,15 @@ usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></u
 sr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr
 /local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/l
 ocal/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/
-local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/
 local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi12.pfb></usr/
 local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/l
 ocal/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi9.pfb></usr/lo
 cal/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb></usr/loca
 l/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
-Output written on Lecture_1.5.pdf (35 pages, 13479629 bytes).
+Output written on Lecture_1.5.pdf (48 pages, 13479566 bytes).
 PDF statistics:
- 332 PDF objects out of 1000 (max. 8388607)
- 221 compressed objects within 3 object streams
- 71 named destinations out of 1000 (max. 500000)
+ 406 PDF objects out of 1000 (max. 8388607)
+ 284 compressed objects within 3 object streams
+ 97 named destinations out of 1000 (max. 500000)
  178 words of extra memory for PDF output out of 10000 (max. 10000000)
 
