@@ -97,8 +97,28 @@
 				\end{itemize}
 	\end{frame}
 
-\begin{frame}
 
+\begin{frame}
+\frametitle{	Selective breeding has been extraordinarily successful in human history}
+	\centering 	\includegraphics[keepaspectratio, width  = 0.4\textwidth]{img/brassica}
+\blfootnote{a) \textit{Brassica rapa} morphotypes; b) \textit{Brassica oleracea} morphotypes - from Cheng \textit{et al }2016}
+\end{frame}
+
+\begin{frame}
+\begin{columns}
+	\begin{column}{0.3\textwidth}	
+		Quantitative genetic models work and have been very effective in the last 100 years!
+	\end{column}
+	\begin{column}{0.7\textwidth}
+		\centering
+		\includegraphics[keepaspectratio, width  =\textwidth]{img/zuidhof_2014} 
+	\end{column}
+\end{columns}
+\blfootnote {Modified from Figure 1 - Zuidhof et al. 2014}
+\end{frame}
+
+
+\begin{frame}
 %%%
 \begin{columns}
 	\begin{column}{0.6\textwidth}
@@ -126,6 +146,189 @@
 \begin{frame}
 	\Huge How could you advance tree breeding with what you learned in the last three modules?
 \end{frame}
+
+\begin{frame}
+	Many of the interventions we may want to take would involve knowing the genes that underly important traits 
+	For species that are intractable to cultivate in a lab, how can we identify important genetic variation?
+\end{frame}
+
+
+
+\begin{frame}
+\frametitle{Let's Build a Model!}
+\centering	\includegraphics[keepaspectratio, width  = 0.75\textwidth]{img/treeIslands}
+\begin{columns}
+	\begin{column}{0.4\textwidth}
+	\begin{itemize}
+	\item[-] Imagine a tree species inhabiting two islands
+	\item[-] Pollen flows between them 
+
+
+\end{itemize}
+
+		\end{column}
+	\begin{column}{0.6\textwidth}
+		\begin{itemize}
+				\item[-] A height of 10m is selectively favoured on both islands
+	\item[-] 95\% of the time trees pollinate individuals from their own island
+			\end{itemize}
+	\end{column}
+\end{columns}
+\vspace{15pt}
+\textit{There are no environmental differences between the islands!}
+\blfootnote{This gives an expected $F_{ST}$ of 0.05}
+\end{frame}
+
+
+\begin{frame}
+	\frametitle{	The Genetics of our Model }
+	\begin{columns}
+		\begin{column}{0.5\textwidth}
+			\includegraphics[keepaspectratio, width  = \textwidth]{img/treeStump}
+		\end{column}
+		\begin{column}{0.6\textwidth}
+		\end{column}
+	\end{columns}
+
+\end{frame}
+
+
+\begin{frame}
+	\frametitle{	The Genetics of our Model }
+	\begin{columns}
+		\begin{column}{0.5\textwidth}
+			\includegraphics[keepaspectratio, width  = \textwidth]{img/treeGuts}
+		\end{column}
+		\begin{column}{0.6\textwidth}
+			\begin{itemize}
+				\item[-] Diploid individuals \pause
+				\item[-] The genome is composed of a single chromosome $1cM$ long \pause
+				\item[-] Mutations that influence height are co-dominant, with effects drawn from a Gaussian distribution with $\sigma=0.1$ \pause
+				\item[-] Mutation rate, $\mu=1\times10^{-9}/bp/generation$ \pause
+				\item[-] Heritability of height $h^2=0.4$
+			\end{itemize}
+		\end{column}
+	\end{columns}
+\blfootnote{The details on this slide are just for understanding the model. You \textit{will not} be tested on memorizing these numbers and/or parameters}	
+\end{frame}
+
+
+
+\begin{frame}
+	\frametitle{Phenotypic Variation on the Islands}
+	\begin{columns}
+		\begin{column}{0.65\textwidth}
+			\begin{itemize}
+				\centering
+		\includegraphics[keepaspectratio, width  = 0.7\textwidth]{img/treeIslands}
+						\includegraphics[keepaspectratio, width  = 0.95\textwidth]{img/treePhens}				
+			\end{itemize}
+			
+		\end{column}
+		\begin{column}{0.4\textwidth}
+			\begin{itemize}
+				\item[-] Mean height is on 10.18 on Island 1 and 9.98 on Island 2  
+				\item[-] This slight difference was statistically significant ($p<0.001$)
+				\item[-] \textbf{Not} driven by differences in selection
+			\end{itemize}
+		\end{column}
+	\end{columns}
+ \end{frame}
+ 
+ 
+ \begin{frame}
+ 
+ I'll add a picture here of the chromosome with a marker...
+ 
+ \end{frame}
+ 
+
+\begin{frame}
+\frametitle{Testing for Genetic Associations With Tree Height}
+
+To test for an association of a trait (in this case height) with SNP, we can do a statistical regression:\\
+
+\vspace{15pt}
+\Large 
+\centering $\hat{Y}_i \sim \alpha  + \beta_j X_i + \epsilon$ \pause
+\vspace{15pt}
+\begin{itemize}
+\normalsize
+	\item[$\hat{Y}$:] The phenotype of individual $i$
+	\item[$\alpha$:] The population mean
+	\item[$\beta$:] The effect of marker $j$ on the trait 
+	\item[$\X_i$:] The number of copies of marker $j$ that individual $i$ possesses
+	\item[$\epsilon$:] The effect of the environment on the trait
+	
+	\end{itemize} 
+	
+\vspace{15pt}
+
+\normalsize By fitting a regression to the data we can estimate the effect size of a particular marker on a trait and test for statistical significance...
+
+\end{frame}
+
+\begin{frame}
+	\frametitle{Testing Association at a Single Marker}
+	
+							\includegraphics[keepaspectratio, width  = 0.95\textwidth]{img/snp_mod_noLine}				
+	
+\textit{	The allele is at a frequency of 0.16 across both islands}
+\end{frame}
+
+
+\begin{frame}
+	\frametitle{Testing Association at a Single Marker}
+	
+	\includegraphics[keepaspectratio, width  = 0.95\textwidth]{img/snp_mod_line}				
+
+\begin{itemize}
+	\item[]	The estimated $\beta$ for this SNP is $\beta=-0.07$
+	\item[] The $p-value$ for this regression was $p=0.108$
+\end{itemize}
+\pause 
+\vspace{10pt}
+\centering \Large What can we say about this marker?
+
+
+\end{frame}
+
+
+\begin{frame}
+	\frametitle{Genome-Wide Association Study}
+	Now, what if we look at the whole genome, and at each marker in it \pause
+	
+		\includegraphics[keepaspectratio, width  = 0.95\textwidth]{img/uncorPlot_noData}				
+		
+\blfootnote{There's nothing special about $-log_{10}(p-value)$, it's just the $p-value$ of an association expressed in an easy to visualise way}
+\end{frame}
+
+\begin{frame}
+	
+	Can anyone think of any problems with the approach we have taken so far?
+
+\end{frame}
+
+\begin{frame}
+	
+	\frametitle{Association Genetics Caveat: Population Structure/Relatedness}
+
+Population structure and/or relatedness can lead to genetic associations when traits vary
+\end{frame}
+
+
+\begin{frame}	
+	\frametitle{Association Genetics Caveat: Multiple Testing}
+\end{frame}
+
+\begin{frame}
+		\frametitle{Genome-Wide Association Study - Redo}
+
+Let's now correct for the issues we have identified so far...
+
+\end{frame}
+
+
 
 
 \end{document}

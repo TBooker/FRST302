@@ -1,0 +1,17 @@
+PLINK v1.90b6.6 64-bit (10 Oct 2018)
+Options in effect:
+  --allow-extra-chr
+  --double-id
+  --make-bed
+  --output XXXYYY
+  --set-missing-var-ids @:#
+  --vcf XXX
+
+Hostname: dhcp-206-87-133-26.ubcsecure.wireless.ubc.ca
+Working directory: /Users/s0784966/UBC/Teaching/FRST302/Data/GWAS_sim
+Start time: Fri Feb 28 11:49:11 2025
+
+Error: Unrecognized flag ('--output').
+For more information, try 'plink --help [flag name]' or 'plink --help | more'.
+
+End time: Fri Feb 28 11:49:11 2025

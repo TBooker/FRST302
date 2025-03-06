@@ -1,0 +1,28 @@
+##
+## GEMMA Version = 0.94
+##
+## Command Line Input = -bfile gwasDemo -k output/gwasDemo.cXX.txt -lmm 4 -o gwasDemo 
+##
+## Summary Statistics:
+## number of total individuals = 1000
+## number of analyzed individuals = 1000
+## number of covariates = 1
+## number of phenotypes = 1
+## number of total SNPs = 21781
+## number of analyzed SNPs = 12250
+## REMLE log-likelihood in the null model = -2249.04
+## MLE log-likelihood in the null model = -2250.62
+## pve estimate in the null model = 0.392707
+## se(pve) in the null model = 0.0486233
+## vg estimate in the null model = 10.0514
+## ve estimate in the null model = 3.75071
+## beta estimate in the null model =   8.5778
+## se(beta) =   0.0612431
+##
+## Computation Time:
+## total computation time = 0.286284 min 
+## computation time break down: 
+##      time on eigen-decomposition = 0.00555442 min 
+##      time on calculating UtX = 0.0185958 min 
+##      time on optimization = 0.250044 min 
+##

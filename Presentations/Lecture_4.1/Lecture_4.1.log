@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.2)  26 FEB 2025 16:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.2)  5 MAR 2025 20:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1131,48 +1131,244 @@ Dictionary: translator-theorem-dictionary, Language: English
 ] [5
 
 ]
-<img/treeImprovement.jpg, id=44, 722.7pt x 929.4725pt>
-File: img/treeImprovement.jpg Graphic file (type jpg)
-<use img/treeImprovement.jpg>
-Package pdftex.def Info: img/treeImprovement.jpg  used on input line 114.
-(pdftex.def)             Requested size: 184.3758pt x 237.11873pt.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 114
+<img/brassica.jpeg, id=44, 1580.90625pt x 2575.6225pt>
+File: img/brassica.jpeg Graphic file (type jpg)
+<use img/brassica.jpeg>
+Package pdftex.def Info: img/brassica.jpeg  used on input line 105.
+(pdftex.def)             Requested size: 122.91406pt x 200.23749pt.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 105
 .
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 114
+LaTeX Font Info:    Trying to load font information for U+msb on input line 105
 .
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on inp
-ut line 114.
+ut line 105.
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
 File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/ma
 thkerncmss.
 ) [6
 
+ <./img/brassica.jpeg>]
+<img/zuidhof_2014.jpg, id=52, 273.73062pt x 308.26672pt>
+File: img/zuidhof_2014.jpg Graphic file (type jpg)
+<use img/zuidhof_2014.jpg>
+Package pdftex.def Info: img/zuidhof_2014.jpg  used on input line 118.
+(pdftex.def)             Requested size: 215.10196pt x 242.24861pt.
+ [7
+
+ <./img/zuidhof_2014.jpg>]
+<img/treeImprovement.jpg, id=59, 722.7pt x 929.4725pt>
+File: img/treeImprovement.jpg Graphic file (type jpg)
+<use img/treeImprovement.jpg>
+Package pdftex.def Info: img/treeImprovement.jpg  used on input line 134.
+(pdftex.def)             Requested size: 184.3758pt x 237.11873pt.
+ [8
+
  <./img/treeImprovement.jpg>]
 File: img/treeImprovement.jpg Graphic file (type jpg)
 <use img/treeImprovement.jpg>
-Package pdftex.def Info: img/treeImprovement.jpg  used on input line 114.
+Package pdftex.def Info: img/treeImprovement.jpg  used on input line 134.
 (pdftex.def)             Requested size: 184.3758pt x 237.11873pt.
- [7
+ [9
 
 ]
-<img/graph_globalavgsurfacetemp.png, id=57, 1284.8pt x 963.6pt>
+<img/graph_globalavgsurfacetemp.png, id=70, 1284.8pt x 963.6pt>
 File: img/graph_globalavgsurfacetemp.png Graphic file (type png)
 <use img/graph_globalavgsurfacetemp.png>
 Package pdftex.def Info: img/graph_globalavgsurfacetemp.png  used on input line
- 121.
+ 141.
 (pdftex.def)             Requested size: 245.83282pt x 184.3651pt.
- [8
+ [10
 
- <./img/graph_globalavgsurfacetemp.png>] [9
+ <./img/graph_globalavgsurfacetemp.png>] [11
+
+] [12
+
+]
+<img/treeIslands.jpg, id=91, 574.145pt x 304.13625pt>
+File: img/treeIslands.jpg Graphic file (type jpg)
+<use img/treeIslands.jpg>
+Package pdftex.def Info: img/treeIslands.jpg  used on input line 180.
+(pdftex.def)             Requested size: 230.46739pt x 122.07928pt.
+ [13
+
+ <./img/treeIslands.jpg>]
+<img/treeStump.jpg, id=101, 902.37125pt x 678.535pt>
+File: img/treeStump.jpg Graphic file (type jpg)
+<use img/treeStump.jpg>
+Package pdftex.def Info: img/treeStump.jpg  used on input line 193.
+(pdftex.def)             Requested size: 153.64493pt x 115.52544pt.
+ [14
+
+ <./img/treeStump.jpg>]
+<img/treeGuts.jpg, id=107, 871.255pt x 650.43pt>
+File: img/treeGuts.jpg Graphic file (type jpg)
+<use img/treeGuts.jpg>
+Package pdftex.def Info: img/treeGuts.jpg  used on input line 213.
+(pdftex.def)             Requested size: 153.64493pt x 114.70033pt.
+ [15
+
+ <./img/treeGuts.jpg>]
+File: img/treeGuts.jpg Graphic file (type jpg)
+<use img/treeGuts.jpg>
+Package pdftex.def Info: img/treeGuts.jpg  used on input line 213.
+(pdftex.def)             Requested size: 153.64493pt x 114.70033pt.
+ [16
+
+]
+File: img/treeGuts.jpg Graphic file (type jpg)
+<use img/treeGuts.jpg>
+Package pdftex.def Info: img/treeGuts.jpg  used on input line 213.
+(pdftex.def)             Requested size: 153.64493pt x 114.70033pt.
+
+[17
+
+]
+File: img/treeGuts.jpg Graphic file (type jpg)
+<use img/treeGuts.jpg>
+Package pdftex.def Info: img/treeGuts.jpg  used on input line 213.
+(pdftex.def)             Requested size: 153.64493pt x 114.70033pt.
+ [18
+
+]
+File: img/treeGuts.jpg Graphic file (type jpg)
+<use img/treeGuts.jpg>
+Package pdftex.def Info: img/treeGuts.jpg  used on input line 213.
+(pdftex.def)             Requested size: 153.64493pt x 114.70033pt.
+ [19
+
+]
+File: img/treeIslands.jpg Graphic file (type jpg)
+<use img/treeIslands.jpg>
+Package pdftex.def Info: img/treeIslands.jpg  used on input line 236.
+(pdftex.def)             Requested size: 139.81496pt x 74.06155pt.
+<img/treePhens.jpeg, id=138, 673.51625pt x 505.89pt>
+File: img/treePhens.jpeg Graphic file (type jpg)
+<use img/treePhens.jpeg>
+Package pdftex.def Info: img/treePhens.jpeg  used on input line 236.
+(pdftex.def)             Requested size: 189.74908pt x 142.5205pt.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.236  \end{frame}
+                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (11.91261pt too wide) in paragraph at lines 236--236
+ [] 
+ []
+
+[20
+
+ <./img/treePhens.jpeg>] [21
+
+]
+! Undefined control sequence.
+<recently read> \X 
+                   
+l.269 \end{frame}
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[22
+
+]
+! Undefined control sequence.
+<recently read> \X 
+                   
+l.269 \end{frame}
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[23
+
+]
+<img/snp_mod_noLine.jpeg, id=161, 803.0pt x 351.3125pt>
+File: img/snp_mod_noLine.jpeg Graphic file (type jpg)
+<use img/snp_mod_noLine.jpeg>
+Package pdftex.def Info: img/snp_mod_noLine.jpeg  used on input line 277.
+(pdftex.def)             Requested size: 291.92444pt x 127.7214pt.
+ [24
+
+ <./img/snp_mod_noLine.jpeg>]
+<img/snp_mod_line.jpeg, id=168, 803.0pt x 351.3125pt>
+File: img/snp_mod_line.jpeg Graphic file (type jpg)
+<use img/snp_mod_line.jpeg>
+Package pdftex.def Info: img/snp_mod_line.jpeg  used on input line 294.
+(pdftex.def)             Requested size: 291.92444pt x 127.7214pt.
+ [25
+
+ <./img/snp_mod_line.jpeg>]
+File: img/snp_mod_line.jpeg Graphic file (type jpg)
+<use img/snp_mod_line.jpeg>
+Package pdftex.def Info: img/snp_mod_line.jpeg  used on input line 294.
+(pdftex.def)             Requested size: 291.92444pt x 127.7214pt.
+ [26
+
+]
+
+! LaTeX Error: File `img/uncorPlot_noData' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.304 \end{frame}
+                 
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[27
+
+]
+
+! LaTeX Error: File `img/uncorPlot_noData' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.304 \end{frame}
+                 
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[28
+
+] [29
+
+] [30
+
+] [31
+
+] [32
 
 ]
 \tf@nav=\write6
@@ -1193,25 +1389,33 @@ Package rerunfilecheck Info: File `Lecture_4.1.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 28281 strings out of 474116
- 552553 string characters out of 5743682
- 1933187 words of memory out of 5000000
- 50041 multiletter control sequences out of 15000+600000
- 571043 words of font info for 82 fonts, out of 8000000 for 9000
+ 28535 strings out of 474116
+ 557572 string characters out of 5743682
+ 1936187 words of memory out of 5000000
+ 50246 multiletter control sequences out of 15000+600000
+ 575198 words of font info for 97 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,12n,123p,428b,755s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb
-></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb>
-</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb><
-/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></u
-sr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr
-/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></us
-r/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi9.pfb></usr
-/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
-Output written on Lecture_4.1.pdf (9 pages, 333263 bytes).
+</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
+></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb>
+</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb><
+/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></
+usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></u
+sr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr
+/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/l
+ocal/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/
+local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/
+local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi12.pfb></usr/
+local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/l
+ocal/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi9.pfb></usr/lo
+cal/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/loc
+al/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local
+/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/t
+exlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
+Output written on Lecture_4.1.pdf (32 pages, 1555254 bytes).
 PDF statistics:
- 115 PDF objects out of 1000 (max. 8388607)
- 78 compressed objects within 1 object stream
- 19 named destinations out of 1000 (max. 500000)
- 53 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 299 PDF objects out of 1000 (max. 8388607)
+ 211 compressed objects within 3 object streams
+ 65 named destinations out of 1000 (max. 500000)
+ 93 words of extra memory for PDF output out of 10000 (max. 10000000)
 

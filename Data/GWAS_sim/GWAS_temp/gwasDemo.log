@@ -1,0 +1,29 @@
+PLINK v1.90b6.6 64-bit (10 Oct 2018)
+Options in effect:
+  --allow-extra-chr
+  --double-id
+  --make-bed
+  --out gwasDemo
+  --set-missing-var-ids @:#
+  --vcf ../gwasDemo.vcf
+
+Hostname: dhcp-206-87-130-11.ubcsecure.wireless.ubc.ca
+Working directory: /Users/s0784966/UBC/Teaching/FRST302/Data/GWAS_sim/GWAS
+Start time: Tue Mar  4 09:53:37 2025
+
+Random number seed: 1741110817
+24576 MB RAM detected; reserving 12288 MB for main workspace.
+--vcf: gwasDemo-temporary.bed + gwasDemo-temporary.bim + gwasDemo-temporary.fam
+written.
+10536 variants loaded from .bim file.
+1000 people (0 males, 0 females, 1000 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to gwasDemo.nosex .
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 1000 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.999988.
+10536 variants and 1000 people pass filters and QC.
+Note: No phenotypes present.
+--make-bed to gwasDemo.bed + gwasDemo.bim + gwasDemo.fam ... done.
+
+End time: Tue Mar  4 09:53:37 2025
