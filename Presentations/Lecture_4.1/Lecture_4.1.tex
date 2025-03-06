@@ -148,7 +148,10 @@
 \end{frame}
 
 \begin{frame}
-	Many of the interventions we may want to take would involve knowing the genes that underly important traits 
+\Large
+	Many of the interventions we may want to take would involve knowing the genes that underly important traits \\
+	
+	\vspace{20pt}
 	For species that are intractable to cultivate in a lab, how can we identify important genetic variation?
 \end{frame}
 
@@ -296,7 +299,7 @@ To test for an association of a trait (in this case height) with SNP, we can do 
 
 \begin{frame}
 	\frametitle{Genome-Wide Association Study}
-	Now, what if we look at the whole genome, and at each marker in it \pause
+	Now, let's look at each SNP across the whole genome \pause
 	
 		\includegraphics[keepaspectratio, width  = 0.95\textwidth]{img/uncorPlot_noData}				
 		
@@ -304,7 +307,37 @@ To test for an association of a trait (in this case height) with SNP, we can do 
 \end{frame}
 
 \begin{frame}
+	\frametitle{Genome-Wide Association Study}
+	Now, let's look at each SNP across the whole genome 
 	
+	\includegraphics[keepaspectratio, width  = 0.95\textwidth]{img/uncorPlot_Data}				
+	
+	\blfootnote{There's nothing special about $-log_{10}(p-value)$, it's just the $p-value$ of an association expressed in an easy to visualise way}
+\end{frame}
+
+
+\begin{frame}
+	\frametitle{Genome-Wide Association Study}
+	Now, let's look at each SNP across the whole genome 
+	
+	\includegraphics[keepaspectratio, width  = 0.95\textwidth]{img/uncorPlot_DataHline}				
+	
+	\blfootnote{There's nothing special about $-log_{10}(p-value)$, it's just the $p-value$ of an association expressed in an easy to visualise way}
+\end{frame}
+
+
+\begin{frame}
+	\frametitle{Genome-Wide Association Study}
+	Now, let's look at each SNP across the whole genome 
+	
+	\includegraphics[keepaspectratio, width  = 0.95\textwidth]{img/uncorPlot_DataHlineTrue}				
+	
+	\blfootnote{There's nothing special about $-log_{10}(p-value)$, it's just the $p-value$ of an association expressed in an easy to visualise way}
+\end{frame}
+
+
+\begin{frame}
+	\Huge
 	Can anyone think of any problems with the approach we have taken so far?
 
 \end{frame}
@@ -313,8 +346,37 @@ To test for an association of a trait (in this case height) with SNP, we can do 
 	
 	\frametitle{Association Genetics Caveat: Population Structure/Relatedness}
 
-Population structure and/or relatedness can lead to genetic associations when traits vary
+
+%%%
+\begin{columns}
+	\begin{column}{0.5\textwidth}
+		\includegraphics[keepaspectratio, width  = \textwidth]{img/alan}				
+	\end{column}
+	\begin{column}{0.5\textwidth}
+		\begin{itemize}
+			\item British people \textit{really} like tea 
+			\vspace{7.5pt}
+			\item Genetic drift has led to slight differences in allele frequencies in the UK compared to other places
+			\vspace{7.5pt}
+			\item Could lead to genetic associations for tea preference
+			
+			\vspace{10pt}
+			\item Tea drinking in the UK has a clear cultural basis
+		\end{itemize}
+	\end{column}
+\end{columns}
 \end{frame}
+
+\begin{frame}
+	
+	\frametitle{Association Genetics Caveat: Population Structure/Relatedness}
+	
+In our model, trees are restricted to two distinct islands with a small amount of gene flow
+
+We can factor the relationship among individuals into our statistical model (\textit{there are a variety of ways to do this, but we won't get into the specifics}) 
+
+\end{frame}
+
 
 
 \begin{frame}	

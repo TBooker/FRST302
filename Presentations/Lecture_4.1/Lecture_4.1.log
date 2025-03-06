@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.2)  5 MAR 2025 20:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.2)  5 MAR 2025 21:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1196,7 +1196,7 @@ Package pdftex.def Info: img/graph_globalavgsurfacetemp.png  used on input line
 <img/treeIslands.jpg, id=91, 574.145pt x 304.13625pt>
 File: img/treeIslands.jpg Graphic file (type jpg)
 <use img/treeIslands.jpg>
-Package pdftex.def Info: img/treeIslands.jpg  used on input line 180.
+Package pdftex.def Info: img/treeIslands.jpg  used on input line 183.
 (pdftex.def)             Requested size: 230.46739pt x 122.07928pt.
  [13
 
@@ -1204,7 +1204,7 @@ Package pdftex.def Info: img/treeIslands.jpg  used on input line 180.
 <img/treeStump.jpg, id=101, 902.37125pt x 678.535pt>
 File: img/treeStump.jpg Graphic file (type jpg)
 <use img/treeStump.jpg>
-Package pdftex.def Info: img/treeStump.jpg  used on input line 193.
+Package pdftex.def Info: img/treeStump.jpg  used on input line 196.
 (pdftex.def)             Requested size: 153.64493pt x 115.52544pt.
  [14
 
@@ -1212,21 +1212,21 @@ Package pdftex.def Info: img/treeStump.jpg  used on input line 193.
 <img/treeGuts.jpg, id=107, 871.255pt x 650.43pt>
 File: img/treeGuts.jpg Graphic file (type jpg)
 <use img/treeGuts.jpg>
-Package pdftex.def Info: img/treeGuts.jpg  used on input line 213.
+Package pdftex.def Info: img/treeGuts.jpg  used on input line 216.
 (pdftex.def)             Requested size: 153.64493pt x 114.70033pt.
  [15
 
  <./img/treeGuts.jpg>]
 File: img/treeGuts.jpg Graphic file (type jpg)
 <use img/treeGuts.jpg>
-Package pdftex.def Info: img/treeGuts.jpg  used on input line 213.
+Package pdftex.def Info: img/treeGuts.jpg  used on input line 216.
 (pdftex.def)             Requested size: 153.64493pt x 114.70033pt.
  [16
 
 ]
 File: img/treeGuts.jpg Graphic file (type jpg)
 <use img/treeGuts.jpg>
-Package pdftex.def Info: img/treeGuts.jpg  used on input line 213.
+Package pdftex.def Info: img/treeGuts.jpg  used on input line 216.
 (pdftex.def)             Requested size: 153.64493pt x 114.70033pt.
 
 [17
@@ -1234,26 +1234,26 @@ Package pdftex.def Info: img/treeGuts.jpg  used on input line 213.
 ]
 File: img/treeGuts.jpg Graphic file (type jpg)
 <use img/treeGuts.jpg>
-Package pdftex.def Info: img/treeGuts.jpg  used on input line 213.
+Package pdftex.def Info: img/treeGuts.jpg  used on input line 216.
 (pdftex.def)             Requested size: 153.64493pt x 114.70033pt.
  [18
 
 ]
 File: img/treeGuts.jpg Graphic file (type jpg)
 <use img/treeGuts.jpg>
-Package pdftex.def Info: img/treeGuts.jpg  used on input line 213.
+Package pdftex.def Info: img/treeGuts.jpg  used on input line 216.
 (pdftex.def)             Requested size: 153.64493pt x 114.70033pt.
  [19
 
 ]
 File: img/treeIslands.jpg Graphic file (type jpg)
 <use img/treeIslands.jpg>
-Package pdftex.def Info: img/treeIslands.jpg  used on input line 236.
+Package pdftex.def Info: img/treeIslands.jpg  used on input line 239.
 (pdftex.def)             Requested size: 139.81496pt x 74.06155pt.
 <img/treePhens.jpeg, id=138, 673.51625pt x 505.89pt>
 File: img/treePhens.jpeg Graphic file (type jpg)
 <use img/treePhens.jpeg>
-Package pdftex.def Info: img/treePhens.jpeg  used on input line 236.
+Package pdftex.def Info: img/treePhens.jpeg  used on input line 239.
 (pdftex.def)             Requested size: 189.74908pt x 142.5205pt.
 
 
@@ -1263,13 +1263,13 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.236  \end{frame}
+l.239  \end{frame}
                   
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-Overfull \hbox (11.91261pt too wide) in paragraph at lines 236--236
+Overfull \hbox (11.91261pt too wide) in paragraph at lines 239--239
  [] 
  []
 
@@ -1281,7 +1281,7 @@ Overfull \hbox (11.91261pt too wide) in paragraph at lines 236--236
 ! Undefined control sequence.
 <recently read> \X 
                    
-l.269 \end{frame}
+l.272 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1295,7 +1295,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <recently read> \X 
                    
-l.269 \end{frame}
+l.272 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1309,7 +1309,7 @@ and I'll forget about whatever was undefined.
 <img/snp_mod_noLine.jpeg, id=161, 803.0pt x 351.3125pt>
 File: img/snp_mod_noLine.jpeg Graphic file (type jpg)
 <use img/snp_mod_noLine.jpeg>
-Package pdftex.def Info: img/snp_mod_noLine.jpeg  used on input line 277.
+Package pdftex.def Info: img/snp_mod_noLine.jpeg  used on input line 280.
 (pdftex.def)             Requested size: 291.92444pt x 127.7214pt.
  [24
 
@@ -1317,58 +1317,74 @@ Package pdftex.def Info: img/snp_mod_noLine.jpeg  used on input line 277.
 <img/snp_mod_line.jpeg, id=168, 803.0pt x 351.3125pt>
 File: img/snp_mod_line.jpeg Graphic file (type jpg)
 <use img/snp_mod_line.jpeg>
-Package pdftex.def Info: img/snp_mod_line.jpeg  used on input line 294.
+Package pdftex.def Info: img/snp_mod_line.jpeg  used on input line 297.
 (pdftex.def)             Requested size: 291.92444pt x 127.7214pt.
  [25
 
  <./img/snp_mod_line.jpeg>]
 File: img/snp_mod_line.jpeg Graphic file (type jpg)
 <use img/snp_mod_line.jpeg>
-Package pdftex.def Info: img/snp_mod_line.jpeg  used on input line 294.
+Package pdftex.def Info: img/snp_mod_line.jpeg  used on input line 297.
 (pdftex.def)             Requested size: 291.92444pt x 127.7214pt.
  [26
 
 ]
-
-! LaTeX Error: File `img/uncorPlot_noData' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.304 \end{frame}
-                 
-I could not locate the file with any of these extensions:
-.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+<img/uncorPlot_noData.png, id=180, 433.62pt x 216.81pt>
+File: img/uncorPlot_noData.png Graphic file (type png)
+<use img/uncorPlot_noData.png>
+Package pdftex.def Info: img/uncorPlot_noData.png  used on input line 307.
+(pdftex.def)             Requested size: 291.92444pt x 145.9699pt.
 
 [27
 
+ <./img/uncorPlot_noData.png>]
+File: img/uncorPlot_noData.png Graphic file (type png)
+<use img/uncorPlot_noData.png>
+Package pdftex.def Info: img/uncorPlot_noData.png  used on input line 307.
+(pdftex.def)             Requested size: 291.92444pt x 145.9699pt.
+ [28
+
 ]
+<img/uncorPlot_Data.png, id=192, 433.62pt x 216.81pt>
+File: img/uncorPlot_Data.png Graphic file (type png)
+<use img/uncorPlot_Data.png>
+Package pdftex.def Info: img/uncorPlot_Data.png  used on input line 316.
+(pdftex.def)             Requested size: 291.92444pt x 145.9699pt.
+ [29
 
-! LaTeX Error: File `img/uncorPlot_noData' not found.
+ <./img/uncorPlot_Data.png>]
+<img/uncorPlot_DataHline.png, id=198, 433.62pt x 216.81pt>
+File: img/uncorPlot_DataHline.png Graphic file (type png)
+<use img/uncorPlot_DataHline.png>
+Package pdftex.def Info: img/uncorPlot_DataHline.png  used on input line 326.
+(pdftex.def)             Requested size: 291.92444pt x 145.9699pt.
+ [30
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.304 \end{frame}
-                 
-I could not locate the file with any of these extensions:
-.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+ <./img/uncorPlot_DataHline.png>]
+<img/uncorPlot_DataHlineTrue.png, id=204, 433.62pt x 216.81pt>
+File: img/uncorPlot_DataHlineTrue.png Graphic file (type png)
+<use img/uncorPlot_DataHlineTrue.png>
+Package pdftex.def Info: img/uncorPlot_DataHlineTrue.png  used on input line 33
+6.
+(pdftex.def)             Requested size: 291.92444pt x 145.9699pt.
+ [31
 
-[28
+ <./img/uncorPlot_DataHlineTrue.png>] [32
 
-] [29
+]
+<img/alan.jpg, id=216, 307.1475pt x 424.58624pt>
+File: img/alan.jpg Graphic file (type jpg)
+<use img/alan.jpg>
+Package pdftex.def Info: img/alan.jpg  used on input line 368.
+(pdftex.def)             Requested size: 153.64493pt x 212.38977pt.
 
-] [30
+[33
 
-] [31
+ <./img/alan.jpg>] [34
 
-] [32
+] [35
+
+] [36
 
 ]
 \tf@nav=\write6
@@ -1389,10 +1405,10 @@ Package rerunfilecheck Info: File `Lecture_4.1.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 28535 strings out of 474116
- 557572 string characters out of 5743682
+ 28590 strings out of 474116
+ 558568 string characters out of 5743682
  1936187 words of memory out of 5000000
- 50246 multiletter control sequences out of 15000+600000
+ 50293 multiletter control sequences out of 15000+600000
  575198 words of font info for 97 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,12n,123p,428b,755s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1412,10 +1428,10 @@ cal/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/loc
 al/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local
 /texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/t
 exlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
-Output written on Lecture_4.1.pdf (32 pages, 1555254 bytes).
+Output written on Lecture_4.1.pdf (36 pages, 2045164 bytes).
 PDF statistics:
- 299 PDF objects out of 1000 (max. 8388607)
- 211 compressed objects within 3 object streams
- 65 named destinations out of 1000 (max. 500000)
- 93 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 327 PDF objects out of 1000 (max. 8388607)
+ 230 compressed objects within 3 object streams
+ 73 named destinations out of 1000 (max. 500000)
+ 118 words of extra memory for PDF output out of 10000 (max. 10000000)
 

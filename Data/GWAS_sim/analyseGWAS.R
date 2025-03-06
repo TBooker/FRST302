@@ -101,33 +101,33 @@ unCorPlot<- ggplot(data = bothGWAS, aes(x= position/1e6, y= -log10(uncor_pVal)))
   ylab(expression(-log[10]*"(p-value)"))+
   theme_bw()
 
-ggsave("~/UBC/Teaching/FRST302/Data/uncorPlot_noData.png",
+ggsave("~/UBC/Teaching/FRST302/Presentations/Lecture_4.1/img/uncorPlot_noData.png",
        plot = unCorPlot,
        width = 6,
        height = 3)
 
 unCorPlot<- unCorPlot + geom_point()
   
-ggsave("~/UBC/Teaching/FRST302/Data/uncorPlot_Data.png",
+ggsave("~/UBC/Teaching/FRST302/Presentations/Lecture_4.1/img//uncorPlot_Data.png",
        plot = unCorPlot,
        width = 6,
        height = 3)
 
-unCorPlot<- unCorPlot + geom_hline(yintercept = -log10(0.05/nrow(gtMat)),
+unCorPlot<- unCorPlot + geom_hline(yintercept = -log10(0.05),
                                    lty = 2, col = "#D55E00")
 
 
-ggsave("~/UBC/Teaching/FRST302/Data/uncorPlot_DataHline.png",
+ggsave("~/UBC/Teaching/FRST302/Presentations/Lecture_4.1/img//uncorPlot_DataHline.png",
        plot = unCorPlot,
        width = 6,
        height = 3)
 
 
-unCorPlot<- unCorPlot +  geom_point(data = justTruePos, aes(x =position/1e6, y = -log10(uncor_pVal)), fill = "#009E73",shape=21,size = 3)+
+unCorPlot<- unCorPlot +  geom_point(data = justTruePos, aes(x =position/1e6, y = -log10(uncor_pVal)), fill = "#009E73",shape=21,size = 3)
 
 
 
-ggsave("~/UBC/Teaching/FRST302/Data/uncorPlot_DataHlineTrue.png",
+ggsave("~/UBC/Teaching/FRST302/Presentations/Lecture_4.1/img//uncorPlot_DataHlineTrue.png",
        plot = unCorPlot,
        width = 6,
        height = 3)
@@ -153,3 +153,22 @@ ggplot(data= justSigMuts, aes(x=beta^2/effect^2))+
   geom_vline(xintercept=1)
 
 
+
+
+mat <- scan('~/UBC/Teaching/FRST302/Data/GWAS_sim/GWAS/output/gwasDemo.cXX.txt')
+mat <- matrix(mat, ncol = 1000, byrow = TRUE)
+
+relMat.df <- reshape2::melt(mat, c("x", "y"), value.name = "z")
+
+ggplot(data=relMat.df,aes(x=x,y=y,fill=z))+
+  geom_tile()
+
+
+mat2 <- matrix(mat[900:1000,1:100], ncol = 100, byrow = TRUE)
+
+relMat.df <- reshape2::melt(mat2, c("x", "y"), value.name = "z")
+
+
+
+ggplot(data=relMat.df,aes(x=x,y=y,fill=z))+
+  geom_tile()
