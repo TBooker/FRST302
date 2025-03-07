@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.2)  5 MAR 2025 21:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.7)  7 MAR 2025 14:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1248,143 +1248,140 @@ Package pdftex.def Info: img/treeGuts.jpg  used on input line 216.
 ]
 File: img/treeIslands.jpg Graphic file (type jpg)
 <use img/treeIslands.jpg>
-Package pdftex.def Info: img/treeIslands.jpg  used on input line 239.
+Package pdftex.def Info: img/treeIslands.jpg  used on input line 238.
 (pdftex.def)             Requested size: 139.81496pt x 74.06155pt.
-<img/treePhens.jpeg, id=138, 673.51625pt x 505.89pt>
-File: img/treePhens.jpeg Graphic file (type jpg)
-<use img/treePhens.jpeg>
-Package pdftex.def Info: img/treePhens.jpeg  used on input line 239.
-(pdftex.def)             Requested size: 189.74908pt x 142.5205pt.
+<img/treePhens.png, id=138, 433.62pt x 361.35pt>
+File: img/treePhens.png Graphic file (type png)
+<use img/treePhens.png>
+Package pdftex.def Info: img/treePhens.png  used on input line 238.
+(pdftex.def)             Requested size: 189.74908pt x 158.12332pt.
 
-
-! LaTeX Error: Something's wrong--perhaps a missing \item.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.239  \end{frame}
-                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Overfull \hbox (11.91261pt too wide) in paragraph at lines 239--239
- [] 
+Overfull \vbox (1.27585pt too high) detected at line 238
  []
 
 [20
 
- <./img/treePhens.jpeg>] [21
+ <./img/treePhens.png>] [21
 
-]
-! Undefined control sequence.
-<recently read> \X 
-                   
-l.272 \end{frame}
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+] [22
 
-[22
-
-]
-! Undefined control sequence.
-<recently read> \X 
-                   
-l.272 \end{frame}
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-[23
+] [23
 
 ]
 <img/snp_mod_noLine.jpeg, id=161, 803.0pt x 351.3125pt>
 File: img/snp_mod_noLine.jpeg Graphic file (type jpg)
 <use img/snp_mod_noLine.jpeg>
-Package pdftex.def Info: img/snp_mod_noLine.jpeg  used on input line 280.
+Package pdftex.def Info: img/snp_mod_noLine.jpeg  used on input line 279.
 (pdftex.def)             Requested size: 291.92444pt x 127.7214pt.
  [24
 
  <./img/snp_mod_noLine.jpeg>]
-<img/snp_mod_line.jpeg, id=168, 803.0pt x 351.3125pt>
+<img/snp_mod_line.jpeg, id=169, 803.0pt x 351.3125pt>
 File: img/snp_mod_line.jpeg Graphic file (type jpg)
 <use img/snp_mod_line.jpeg>
-Package pdftex.def Info: img/snp_mod_line.jpeg  used on input line 297.
+Package pdftex.def Info: img/snp_mod_line.jpeg  used on input line 296.
 (pdftex.def)             Requested size: 291.92444pt x 127.7214pt.
- [25
+
+[25
 
  <./img/snp_mod_line.jpeg>]
 File: img/snp_mod_line.jpeg Graphic file (type jpg)
 <use img/snp_mod_line.jpeg>
-Package pdftex.def Info: img/snp_mod_line.jpeg  used on input line 297.
+Package pdftex.def Info: img/snp_mod_line.jpeg  used on input line 296.
 (pdftex.def)             Requested size: 291.92444pt x 127.7214pt.
  [26
 
 ]
-<img/uncorPlot_noData.png, id=180, 433.62pt x 216.81pt>
+<img/uncorPlot_noData.png, id=181, 433.62pt x 216.81pt>
 File: img/uncorPlot_noData.png Graphic file (type png)
 <use img/uncorPlot_noData.png>
-Package pdftex.def Info: img/uncorPlot_noData.png  used on input line 307.
+Package pdftex.def Info: img/uncorPlot_noData.png  used on input line 306.
 (pdftex.def)             Requested size: 291.92444pt x 145.9699pt.
-
-[27
+ [27
 
  <./img/uncorPlot_noData.png>]
 File: img/uncorPlot_noData.png Graphic file (type png)
 <use img/uncorPlot_noData.png>
-Package pdftex.def Info: img/uncorPlot_noData.png  used on input line 307.
+Package pdftex.def Info: img/uncorPlot_noData.png  used on input line 306.
 (pdftex.def)             Requested size: 291.92444pt x 145.9699pt.
  [28
 
 ]
-<img/uncorPlot_Data.png, id=192, 433.62pt x 216.81pt>
+<img/uncorPlot_Data.png, id=193, 433.62pt x 216.81pt>
 File: img/uncorPlot_Data.png Graphic file (type png)
 <use img/uncorPlot_Data.png>
-Package pdftex.def Info: img/uncorPlot_Data.png  used on input line 316.
+Package pdftex.def Info: img/uncorPlot_Data.png  used on input line 315.
 (pdftex.def)             Requested size: 291.92444pt x 145.9699pt.
- [29
+
+[29
 
  <./img/uncorPlot_Data.png>]
-<img/uncorPlot_DataHline.png, id=198, 433.62pt x 216.81pt>
+<img/uncorPlot_DataHline.png, id=199, 433.62pt x 216.81pt>
 File: img/uncorPlot_DataHline.png Graphic file (type png)
 <use img/uncorPlot_DataHline.png>
-Package pdftex.def Info: img/uncorPlot_DataHline.png  used on input line 326.
+Package pdftex.def Info: img/uncorPlot_DataHline.png  used on input line 325.
 (pdftex.def)             Requested size: 291.92444pt x 145.9699pt.
  [30
 
  <./img/uncorPlot_DataHline.png>]
-<img/uncorPlot_DataHlineTrue.png, id=204, 433.62pt x 216.81pt>
+<img/uncorPlot_DataHlineTrue.png, id=205, 433.62pt x 216.81pt>
 File: img/uncorPlot_DataHlineTrue.png Graphic file (type png)
 <use img/uncorPlot_DataHlineTrue.png>
 Package pdftex.def Info: img/uncorPlot_DataHlineTrue.png  used on input line 33
-6.
+5.
 (pdftex.def)             Requested size: 291.92444pt x 145.9699pt.
  [31
 
  <./img/uncorPlot_DataHlineTrue.png>] [32
 
 ]
-<img/alan.jpg, id=216, 307.1475pt x 424.58624pt>
+<img/alan.jpg, id=217, 307.1475pt x 424.58624pt>
 File: img/alan.jpg Graphic file (type jpg)
 <use img/alan.jpg>
-Package pdftex.def Info: img/alan.jpg  used on input line 368.
-(pdftex.def)             Requested size: 153.64493pt x 212.38977pt.
+Package pdftex.def Info: img/alan.jpg  used on input line 363.
+(pdftex.def)             Requested size: 122.91406pt x 169.90923pt.
+<img/human_pca.jpg, id=218, 777.90625pt x 625.33624pt>
+File: img/human_pca.jpg Graphic file (type jpg)
+<use img/human_pca.jpg>
+Package pdftex.def Info: img/human_pca.jpg  used on input line 363.
+(pdftex.def)             Requested size: 193.59044pt x 155.61803pt.
+ [33
 
-[33
+ <./img/alan.jpg> <./img/human_pca.jpg>]
+File: img/alan.jpg Graphic file (type jpg)
+<use img/alan.jpg>
+Package pdftex.def Info: img/alan.jpg  used on input line 389.
+(pdftex.def)             Requested size: 122.91406pt x 169.90923pt.
+[34
 
- <./img/alan.jpg>] [34
+]
+File: img/treeIslands.jpg Graphic file (type jpg)
+<use img/treeIslands.jpg>
+Package pdftex.def Info: img/treeIslands.jpg  used on input line 414.
+(pdftex.def)             Requested size: 139.81496pt x 74.06155pt.
+File: img/treePhens.png Graphic file (type png)
+<use img/treePhens.png>
+Package pdftex.def Info: img/treePhens.png  used on input line 414.
+(pdftex.def)             Requested size: 179.76164pt x 149.80307pt.
 
-] [35
+Overfull \vbox (6.9556pt too high) detected at line 414
+ []
+
+[35
 
 ] [36
+
+] [37
+
+] [38
+
+] [39
+
+] [40
+
+] [41
+
+] [42
 
 ]
 \tf@nav=\write6
@@ -1405,13 +1402,13 @@ Package rerunfilecheck Info: File `Lecture_4.1.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 28590 strings out of 474116
- 558568 string characters out of 5743682
+ 28611 strings out of 474116
+ 558818 string characters out of 5743683
  1936187 words of memory out of 5000000
- 50293 multiletter control sequences out of 15000+600000
- 575198 words of font info for 97 fonts, out of 8000000 for 9000
+ 50301 multiletter control sequences out of 15000+600000
+ 575900 words of font info for 99 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,12n,123p,428b,755s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 128i,12n,123p,428b,907s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
 ></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb>
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb><
@@ -1428,10 +1425,10 @@ cal/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/loc
 al/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local
 /texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/t
 exlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
-Output written on Lecture_4.1.pdf (36 pages, 2045164 bytes).
+Output written on Lecture_4.1.pdf (42 pages, 2263751 bytes).
 PDF statistics:
- 327 PDF objects out of 1000 (max. 8388607)
- 230 compressed objects within 3 object streams
- 73 named destinations out of 1000 (max. 500000)
- 118 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 366 PDF objects out of 1000 (max. 8388607)
+ 261 compressed objects within 3 object streams
+ 85 named destinations out of 1000 (max. 500000)
+ 123 words of extra memory for PDF output out of 10000 (max. 10000000)
 

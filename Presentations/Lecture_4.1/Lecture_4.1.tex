@@ -170,16 +170,16 @@
 \end{itemize}
 
 		\end{column}
-	\begin{column}{0.6\textwidth}
+	\begin{column}{0.7\textwidth}
 		\begin{itemize}
-				\item[-] A height of 10m is selectively favoured on both islands
-	\item[-] 95\% of the time trees pollinate individuals from their own island
+				\item[-] Taller trees are favoured on Island $\#1$
+	\item[-] 99.9\% of the time trees pollinate individuals from their own island\footnote{This gives an expected $F_{ST}$ of 0.05}
 			\end{itemize}
 	\end{column}
 \end{columns}
 \vspace{15pt}
-\textit{There are no environmental differences between the islands!}
-\blfootnote{This gives an expected $F_{ST}$ of 0.05}
+
+
 \end{frame}
 
 
@@ -221,19 +221,18 @@
 	\frametitle{Phenotypic Variation on the Islands}
 	\begin{columns}
 		\begin{column}{0.65\textwidth}
-			\begin{itemize}
+
 				\centering
 		\includegraphics[keepaspectratio, width  = 0.7\textwidth]{img/treeIslands}
-						\includegraphics[keepaspectratio, width  = 0.95\textwidth]{img/treePhens}				
-			\end{itemize}
+						\includegraphics[keepaspectratio, width  = 0.95\textwidth]{img/treePhens.png}				
+
 			
 		\end{column}
 		\begin{column}{0.4\textwidth}
 			\begin{itemize}
-				\item[-] Mean height is on 10.18 on Island 1 and 9.98 on Island 2  
-				\item[-] This slight difference was statistically significant ($p<0.001$)
-				\item[-] \textbf{Not} driven by differences in selection
-			\end{itemize}
+				\item[-] Mean height is on 13.11 on Island 1 and 10.71 on Island 2  
+				\item[-] This slight difference was statistically significant ($p<<0.001$)
+						\end{itemize}
 		\end{column}
 	\end{columns}
  \end{frame}
@@ -249,32 +248,32 @@
 \begin{frame}
 \frametitle{Testing for Genetic Associations With Tree Height}
 
-To test for an association of a trait (in this case height) with SNP, we can do a statistical regression:\\
+To test for an association of a trait (in this case height) with SNP, we can do a statistical regression:
 
 \vspace{15pt}
-\Large 
-\centering $\hat{Y}_i \sim \alpha  + \beta_j X_i + \epsilon$ \pause
+\Large \centering $\hat{Y}_i \sim \alpha  + \beta_j X_i + \epsilon$ \pause
 \vspace{15pt}
+\normalsize 
 \begin{itemize}
-\normalsize
+
 	\item[$\hat{Y}$:] The phenotype of individual $i$
 	\item[$\alpha$:] The population mean
 	\item[$\beta$:] The effect of marker $j$ on the trait 
-	\item[$\X_i$:] The number of copies of marker $j$ that individual $i$ possesses
+	\item[$X_i$:] The number of copies of marker $j$ that individual $i$ possesses
 	\item[$\epsilon$:] The effect of the environment on the trait
 	
-	\end{itemize} 
-	
-\vspace{15pt}
+\end{itemize} 
 
-\normalsize By fitting a regression to the data we can estimate the effect size of a particular marker on a trait and test for statistical significance...
+\vspace{15pt}
+	
+By fitting a regression to the data we can estimate the effect size of a particular marker on a trait and test for statistical significance...
 
 \end{frame}
 
 \begin{frame}
-	\frametitle{Testing Association at a Single Marker}
+\frametitle{Testing Association at a Single Marker}
 	
-							\includegraphics[keepaspectratio, width  = 0.95\textwidth]{img/snp_mod_noLine}				
+	\includegraphics[keepaspectratio, width  = 0.95\textwidth]{img/snp_mod_noLine}				
 	
 \textit{	The allele is at a frequency of 0.16 across both islands}
 \end{frame}
@@ -349,38 +348,109 @@ To test for an association of a trait (in this case height) with SNP, we can do 
 
 %%%
 \begin{columns}
-	\begin{column}{0.5\textwidth}
+	\begin{column}{0.4\textwidth}
 		\includegraphics[keepaspectratio, width  = \textwidth]{img/alan}				
 	\end{column}
-	\begin{column}{0.5\textwidth}
+	\begin{column}{0.7\textwidth}
+		\begin{itemize}
+			\item British people \textit{really} like tea \\
+			\vspace{15pt}
+			\includegraphics[keepaspectratio, width  = 0.9\textwidth]{img/human_pca}				
+		\end{itemize}
+	\end{column}
+\end{columns}
+\blfootnote{Figure modified from: Novembre et al 2008 - \textit{Nature}}
+\end{frame}
+
+
+\begin{frame}
+	
+	\frametitle{Association Genetics Caveat: Population Structure/Relatedness}
+
+\begin{columns}
+	\begin{column}{0.4\textwidth}
+		\includegraphics[keepaspectratio, width  = \textwidth]{img/alan}				
+	\end{column}
+	\begin{column}{0.7\textwidth}
 		\begin{itemize}
 			\item British people \textit{really} like tea 
 			\vspace{7.5pt}
 			\item Genetic drift has led to slight differences in allele frequencies in the UK compared to other places
 			\vspace{7.5pt}
 			\item Could lead to genetic associations for tea preference
+			\vspace{7.5pt}
+			\item\textbf{ A relatedness structure among sampled individuals can lead to spurious genetic associations}
 			
 			\vspace{10pt}
-			\item Tea drinking in the UK has a clear cultural basis
 		\end{itemize}
 	\end{column}
 \end{columns}
+\blfootnote{ Tea drinking in the UK has a clear cultural basis}
 \end{frame}
+
 
 \begin{frame}
 	
 	\frametitle{Association Genetics Caveat: Population Structure/Relatedness}
 	
-In our model, trees are restricted to two distinct islands with a small amount of gene flow
-
-We can factor the relationship among individuals into our statistical model (\textit{there are a variety of ways to do this, but we won't get into the specifics}) 
+		\begin{columns}
+		\begin{column}{0.65\textwidth}
+			
+			\centering
+			\includegraphics[keepaspectratio, width  = 0.7\textwidth]{img/treeIslands}
+			\includegraphics[keepaspectratio, width  = 0.9\textwidth]{img/treePhens.png}				
+			
+			
+		\end{column}
+		\begin{column}{0.4\textwidth}
+			\begin{itemize}
+				\item[-] In our model, trees are restricted to two distinct islands with a small amount of gene flow
+				\item[-] We can factor the relationship among individuals into our statistical model 
+				\item \scriptsize (\textit{there are a variety of ways to do this, but we won't get into the specifics today}) 
+			\end{itemize}
+		\end{column}
+	\end{columns}
 
 \end{frame}
 
 
+\begin{frame}
+	\frametitle{Genome-Wide Association Study}
+	Now, let's look at each SNP across the whole genome 
+	
+	\includegraphics[keepaspectratio, width  = 0.95\textwidth]{img/uncorPlot_DataHlineTrue}				
+	
+	\blfootnote{We corrected for population structure using a matrix of relatedness among individuals (see Lecture 4.3)}
+\end{frame}
+
 
 \begin{frame}	
 	\frametitle{Association Genetics Caveat: Multiple Testing}
+\begin{itemize}	
+\item In GWAS, we are conducting many tests (i.e. on each SNP) simultaneously
+\end{itemize} \pause
+
+
+\begin{columns}
+	\begin{column}{0.5\textwidth}
+		Let's do a simple experiment...\\
+		\begin{itemize}
+			\item[-] Draw 100 numbers at random between 0 and 1, call this $A$ \pause
+			\item[-] Draw another 100 numbers at random between 0 and 1, call this $B$ \pause
+			\item[-] Calculate the means of $A$ and $B$ \pause
+			\item[-] What is the expected difference between $A$ and $B$? \pause
+			\end{itemize}
+		
+		
+	\end{column}
+	\begin{column}{0.5\textwidth}
+	\end{column}
+\end{columns}
+
+
+
+
+
 \end{frame}
 
 \begin{frame}

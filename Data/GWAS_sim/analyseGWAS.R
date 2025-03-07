@@ -8,16 +8,20 @@ phen$pop <- c(rep("p1", nrow(phen)/2),rep("p2", nrow(phen)/2))
 library(ggplot2)
 phen$Island <- factor(phen$pop, levels = c("p1", "p2"), labels = c("1","2"))
 min(phen$phen)
-ggplot(data = phen, aes(x = phen, fill = Island))+
+phenPlot <- ggplot(data = phen, aes(x = phen+10/3, fill = Island))+ ## Adjust the phenotypes so there are no negative heights on the plot
   geom_density(alpha = 0.7)+
   xlab("Height (m)")+
   ylab("Density")+
   scale_fill_manual("Island", values = c("#E69F00", "#56B4E9"))+
-  xlim(c(-5,20))+
+  xlim(c(0,25))+
   theme_bw()
 
+ggsave("~/UBC/Teaching/FRST302/Presentations/Lecture_4.1/img/treePhens.png",
+       plot = phenPlot,
+       width = 6,
+       height = 5)
 
-t.test(phen$phen~phen$pop)
+t.test(phen$phen+10/3~phen$pop)
 
 
 snp <- read.csv("~/UBC/Teaching/FRST302/Data/GWAS_sim/GWAS_temp//singleSNP.csv")
@@ -52,7 +56,7 @@ summary(snp_mod)
 ## Now do that simple model on all SNPs
 
 library(vcfR)
-vcf<- read.vcfR("~/UBC/Teaching/FRST302/Data/GWAS_sim/GWAS/gwasDemo.vcf")
+vcf<- read.vcfR("~/UBC/Teaching/FRST302/Data/GWAS_sim/GWAS/gwasDemo.vcf.gz")
 gtMat <- extract.gt(vcf, element = 'GT', as.numeric = TRUE)
 
 manual_gwas <- list()
@@ -73,7 +77,7 @@ simpleGWAS <- do.call(rbind, manual_gwas)
 gwasRes <- read.csv("~/UBC/Teaching/FRST302/Data/GWAS_sim/GWAS/output/gwasDemo.assoc.txt", sep = "\t")
 names(gwasRes)[3] <- "position"
 
-
+gwasRes[gwasRes$position==10000000,]
 snpDat <- read.csv("~/UBC/Teaching/FRST302/Data/GWAS_sim/GWAS/gwasDemo.muts.csv")
 snpPosData <- merge(gwasRes, snpDat, on ="position", all.x=T)
 
@@ -81,7 +85,7 @@ snpPosData <- merge(gwasRes, snpDat, on ="position", all.x=T)
 snpPosDataGWAS <- merge(gwasRes, snpPosData, on = "id", all.x=T)
 snpPosDataGWAS$effect[is.na(snpPosDataGWAS$effect)] <- 0
 library(dplyr)
-
+snpPosDataGWAS[snpPosDataGWAS$effect^2>0.01,]
 snpPosDataGWAS <- snpPosDataGWAS %>% mutate(effect = ifelse(is.na(effect), 0, effect))
 
 names(snpPosDataGWAS)[2] <- "snp"
@@ -135,15 +139,24 @@ ggsave("~/UBC/Teaching/FRST302/Presentations/Lecture_4.1/img//uncorPlot_DataHlin
 
 
 
-ggplot(data = bothGWAS, aes(x= position/1e6, y= -log10(p_lrt)))+
+corPlot <- ggplot(data = bothGWAS, aes(x= position/1e6, y= -log10(p_lrt)))+
   geom_point()+
-#  geom_point(data = justTruePos, aes(x =position/1e6, y = -log10(p_lrt)), col = "red",size = 3)+
+  geom_point(data = justTruePos, aes(x =position/1e6, y = -log10(p_lrt)), fill = "#009E73",shape=21,size = 3)+
   xlab("Position in Chromosome (Mbp)")+
-  geom_hline(yintercept = -log10(0.05/nrow(bothGWAS)))+
   ylab(expression(-log[10]*"(p-value)"))+
   theme_bw()
 
+ggsave("~/UBC/Teaching/FRST302/Presentations/Lecture_4.1/img/corPlot_unCorrectedLine.png",
+       plot = corPlot,
+       width = 6,
+       height = 3)
 
+corPlot_adj <-  corPlot +  geom_hline(yintercept = -log10(0.05/nrow(bothGWAS)), col = "orange", lty=2, lwd=2)
+
+ggsave("~/UBC/Teaching/FRST302/Presentations/Lecture_4.1/img/corPlot_correctedLine.png",
+       plot = unCorPlot,
+       width = 6,
+       height = 3)
 
 justfuncMuts <- snpPosDataGWAS[snpPosDataGWAS$effect!=0,]
 justSigMuts <- justfuncMuts[justfuncMuts$p_wald<0.05,]
