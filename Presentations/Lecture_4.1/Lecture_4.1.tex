@@ -158,6 +158,74 @@
 
 
 \begin{frame}
+       \frametitle{High Throughput Genotyping}
+       
+       In Module 1, we discussed how we can use high-throughput sequencing methods to reconstruct the genome of an individual\\
+               \vspace{5pt}
+       But, if we are studying genetic variation we need data for numerous individuals\\
+               \vspace{5pt}
+       We disussed different types of genetic markers, but for the rest of this module, we are going to focus on SNPs as these are the main sort of data 
+	analysed these days
+       
+       
+       
+\end{frame}
+
+
+\begin{frame}
+       \frametitle{Recap - Single Nucleotide Polymorphism}
+       A SNP (we often pronounce it as \textit{snip}) is a DNA polymorphism at a particular base pair in the genome\\
+       \centering              \includegraphics[keepaspectratio, width  = 0.7\textwidth]{img/SNP}
+\end{frame}
+
+
+\begin{frame}
+       \frametitle{Recap - Identifying SNPs}
+       
+       \centering How can we identify SNPs?\\
+       
+       \vspace{20pt}
+       
+      \begin{columns}
+               \begin{column}{0.5\textwidth}
+                       
+                       \begin{itemize}
+                               \item[$\bullet$] The first copy of the genome sequence can serve as a reference
+                               \item[$\bullet$] The fragment sequences from a new individual are compared to the reference to determine SNPs
+                               \item[$\bullet$] Technical error can also cause  false SNPs, then multiple reads are required to remove errors
+                               
+                       \end{itemize}
+               \end{column}
+               \begin{column}{0.5\textwidth}
+                       \includegraphics[keepaspectratio, width  = \textwidth]{img/readDiagram}
+               \end{column}
+       \end{columns}
+
+
+\end{frame}
+
+
+
+\begin{frame}
+	       \frametitle{Recap - Using Genetic Markers}
+	       \scriptsize 
+	       \begin{itemize} 
+		               \item[$\bullet$] Wang et al (2018 - Genome Biology) conducted a \textbf{genome-wide association study} (GWAS) to identify the genetic basi
+		s of adaptation to photoperiod in European Aspen (\textit{Populus tremula}) 
+		               \item \textit{They analysed $>4 million$ SNPs } \pause
+		       \end{itemize}
+	       
+	       \includegraphics[keepaspectratio, width  = \textwidth]{img/gwas}
+	       
+	       \textit{The genomic region highlighted by the red peak includes a gene that controls flowering time} \pause\\
+	       BUT, there were more than 900 SNPs identified in the read peak that includes several different genes
+	       
+	       \blfootnote{This slide also appeared in Lecture 1.6}
+	\end{frame}
+
+
+
+\begin{frame}
 \frametitle{Let's Build a Model!}
 \centering	\includegraphics[keepaspectratio, width  = 0.75\textwidth]{img/treeIslands}
 \begin{columns}
@@ -418,7 +486,7 @@ By fitting a regression to the data we can estimate the effect size of a particu
 	\frametitle{Genome-Wide Association Study}
 	Now, let's look at each SNP across the whole genome 
 	
-	\includegraphics[keepaspectratio, width  = 0.95\textwidth]{img/corPlot_}				
+%	\includegraphics[keepaspectratio, width  = 0.95\textwidth]{img/corPlot_}				
 	
 	\blfootnote{We corrected for population structure using a matrix of relatedness among individuals (see Lecture 4.3)}
 \end{frame}

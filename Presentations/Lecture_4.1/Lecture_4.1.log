@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.7)  7 MAR 2025 14:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.2)  13 MAR 2025 10:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1192,196 +1192,239 @@ Package pdftex.def Info: img/graph_globalavgsurfacetemp.png  used on input line
 
 ] [12
 
+] [13
+
 ]
-<img/treeIslands.jpg, id=91, 574.145pt x 304.13625pt>
-File: img/treeIslands.jpg Graphic file (type jpg)
-<use img/treeIslands.jpg>
-Package pdftex.def Info: img/treeIslands.jpg  used on input line 183.
-(pdftex.def)             Requested size: 230.46739pt x 122.07928pt.
- [13
+<img/SNP.png, id=97, 713.66624pt x 484.81125pt>
+File: img/SNP.png Graphic file (type png)
+<use img/SNP.png>
+Package pdftex.def Info: img/SNP.png  used on input line 179.
+(pdftex.def)             Requested size: 215.10196pt x 146.12508pt.
 
- <./img/treeIslands.jpg>]
-<img/treeStump.jpg, id=101, 902.37125pt x 678.535pt>
-File: img/treeStump.jpg Graphic file (type jpg)
-<use img/treeStump.jpg>
-Package pdftex.def Info: img/treeStump.jpg  used on input line 196.
-(pdftex.def)             Requested size: 153.64493pt x 115.52544pt.
- [14
+[14
 
- <./img/treeStump.jpg>]
-<img/treeGuts.jpg, id=107, 871.255pt x 650.43pt>
-File: img/treeGuts.jpg Graphic file (type jpg)
-<use img/treeGuts.jpg>
-Package pdftex.def Info: img/treeGuts.jpg  used on input line 216.
-(pdftex.def)             Requested size: 153.64493pt x 114.70033pt.
+ <./img/SNP.png>]
+<img/readDiagram.jpg, id=105, 339.2675pt x 152.57pt>
+File: img/readDiagram.jpg Graphic file (type jpg)
+<use img/readDiagram.jpg>
+Package pdftex.def Info: img/readDiagram.jpg  used on input line 205.
+(pdftex.def)             Requested size: 153.64493pt x 69.09352pt.
  [15
 
- <./img/treeGuts.jpg>]
-File: img/treeGuts.jpg Graphic file (type jpg)
-<use img/treeGuts.jpg>
-Package pdftex.def Info: img/treeGuts.jpg  used on input line 216.
-(pdftex.def)             Requested size: 153.64493pt x 114.70033pt.
+ <./img/readDiagram.jpg>]
+<img/gwas.jpg, id=112, 686.565pt x 182.6825pt>
+File: img/gwas.jpg Graphic file (type jpg)
+<use img/gwas.jpg>
+Package pdftex.def Info: img/gwas.jpg  used on input line 224.
+(pdftex.def)             Requested size: 307.28987pt x 81.76314pt.
  [16
 
-]
-File: img/treeGuts.jpg Graphic file (type jpg)
-<use img/treeGuts.jpg>
-Package pdftex.def Info: img/treeGuts.jpg  used on input line 216.
-(pdftex.def)             Requested size: 153.64493pt x 114.70033pt.
+ <./img/gwas.jpg>]
+File: img/gwas.jpg Graphic file (type jpg)
+<use img/gwas.jpg>
+Package pdftex.def Info: img/gwas.jpg  used on input line 224.
+(pdftex.def)             Requested size: 307.28987pt x 81.76314pt.
 
 [17
 
 ]
+File: img/gwas.jpg Graphic file (type jpg)
+<use img/gwas.jpg>
+Package pdftex.def Info: img/gwas.jpg  used on input line 224.
+(pdftex.def)             Requested size: 307.28987pt x 81.76314pt.
+ [18
+
+]
+<img/treeIslands.jpg, id=132, 574.145pt x 304.13625pt>
+File: img/treeIslands.jpg Graphic file (type jpg)
+<use img/treeIslands.jpg>
+Package pdftex.def Info: img/treeIslands.jpg  used on input line 251.
+(pdftex.def)             Requested size: 230.46739pt x 122.07928pt.
+ [19
+
+ <./img/treeIslands.jpg>]
+<img/treeStump.jpg, id=140, 902.37125pt x 678.535pt>
+File: img/treeStump.jpg Graphic file (type jpg)
+<use img/treeStump.jpg>
+Package pdftex.def Info: img/treeStump.jpg  used on input line 264.
+(pdftex.def)             Requested size: 153.64493pt x 115.52544pt.
+ [20
+
+ <./img/treeStump.jpg>]
+<img/treeGuts.jpg, id=146, 871.255pt x 650.43pt>
 File: img/treeGuts.jpg Graphic file (type jpg)
 <use img/treeGuts.jpg>
-Package pdftex.def Info: img/treeGuts.jpg  used on input line 216.
+Package pdftex.def Info: img/treeGuts.jpg  used on input line 284.
 (pdftex.def)             Requested size: 153.64493pt x 114.70033pt.
- [18
+ [21
+
+ <./img/treeGuts.jpg>]
+File: img/treeGuts.jpg Graphic file (type jpg)
+<use img/treeGuts.jpg>
+Package pdftex.def Info: img/treeGuts.jpg  used on input line 284.
+(pdftex.def)             Requested size: 153.64493pt x 114.70033pt.
+ [22
 
 ]
 File: img/treeGuts.jpg Graphic file (type jpg)
 <use img/treeGuts.jpg>
-Package pdftex.def Info: img/treeGuts.jpg  used on input line 216.
+Package pdftex.def Info: img/treeGuts.jpg  used on input line 284.
 (pdftex.def)             Requested size: 153.64493pt x 114.70033pt.
- [19
+ [23
+
+]
+File: img/treeGuts.jpg Graphic file (type jpg)
+<use img/treeGuts.jpg>
+Package pdftex.def Info: img/treeGuts.jpg  used on input line 284.
+(pdftex.def)             Requested size: 153.64493pt x 114.70033pt.
+ [24
+
+]
+File: img/treeGuts.jpg Graphic file (type jpg)
+<use img/treeGuts.jpg>
+Package pdftex.def Info: img/treeGuts.jpg  used on input line 284.
+(pdftex.def)             Requested size: 153.64493pt x 114.70033pt.
+ [25
 
 ]
 File: img/treeIslands.jpg Graphic file (type jpg)
 <use img/treeIslands.jpg>
-Package pdftex.def Info: img/treeIslands.jpg  used on input line 238.
+Package pdftex.def Info: img/treeIslands.jpg  used on input line 306.
 (pdftex.def)             Requested size: 139.81496pt x 74.06155pt.
-<img/treePhens.png, id=138, 433.62pt x 361.35pt>
+<img/treePhens.png, id=176, 433.62pt x 361.35pt>
 File: img/treePhens.png Graphic file (type png)
 <use img/treePhens.png>
-Package pdftex.def Info: img/treePhens.png  used on input line 238.
+Package pdftex.def Info: img/treePhens.png  used on input line 306.
 (pdftex.def)             Requested size: 189.74908pt x 158.12332pt.
 
-Overfull \vbox (1.27585pt too high) detected at line 238
+Overfull \vbox (1.27585pt too high) detected at line 306
  []
 
-[20
+[26
 
- <./img/treePhens.png>] [21
+ <./img/treePhens.png>] [27
 
-] [22
+] [28
 
-] [23
-
-]
-<img/snp_mod_noLine.jpeg, id=161, 803.0pt x 351.3125pt>
-File: img/snp_mod_noLine.jpeg Graphic file (type jpg)
-<use img/snp_mod_noLine.jpeg>
-Package pdftex.def Info: img/snp_mod_noLine.jpeg  used on input line 279.
-(pdftex.def)             Requested size: 291.92444pt x 127.7214pt.
- [24
-
- <./img/snp_mod_noLine.jpeg>]
-<img/snp_mod_line.jpeg, id=169, 803.0pt x 351.3125pt>
-File: img/snp_mod_line.jpeg Graphic file (type jpg)
-<use img/snp_mod_line.jpeg>
-Package pdftex.def Info: img/snp_mod_line.jpeg  used on input line 296.
-(pdftex.def)             Requested size: 291.92444pt x 127.7214pt.
-
-[25
-
- <./img/snp_mod_line.jpeg>]
-File: img/snp_mod_line.jpeg Graphic file (type jpg)
-<use img/snp_mod_line.jpeg>
-Package pdftex.def Info: img/snp_mod_line.jpeg  used on input line 296.
-(pdftex.def)             Requested size: 291.92444pt x 127.7214pt.
- [26
+] [29
 
 ]
-<img/uncorPlot_noData.png, id=181, 433.62pt x 216.81pt>
+<img/snp_mod_noLine.png, id=199, 578.16pt x 252.945pt>
+File: img/snp_mod_noLine.png Graphic file (type png)
+<use img/snp_mod_noLine.png>
+Package pdftex.def Info: img/snp_mod_noLine.png  used on input line 347.
+(pdftex.def)             Requested size: 291.92444pt x 127.71498pt.
+ [30
+
+ <./img/snp_mod_noLine.png>]
+<img/snp_mod_line.png, id=205, 578.16pt x 252.945pt>
+File: img/snp_mod_line.png Graphic file (type png)
+<use img/snp_mod_line.png>
+Package pdftex.def Info: img/snp_mod_line.png  used on input line 364.
+(pdftex.def)             Requested size: 291.92444pt x 127.71498pt.
+
+[31
+
+ <./img/snp_mod_line.png>]
+File: img/snp_mod_line.png Graphic file (type png)
+<use img/snp_mod_line.png>
+Package pdftex.def Info: img/snp_mod_line.png  used on input line 364.
+(pdftex.def)             Requested size: 291.92444pt x 127.71498pt.
+ [32
+
+]
+<img/uncorPlot_noData.png, id=217, 433.62pt x 216.81pt>
 File: img/uncorPlot_noData.png Graphic file (type png)
 <use img/uncorPlot_noData.png>
-Package pdftex.def Info: img/uncorPlot_noData.png  used on input line 306.
+Package pdftex.def Info: img/uncorPlot_noData.png  used on input line 374.
 (pdftex.def)             Requested size: 291.92444pt x 145.9699pt.
- [27
+ [33
 
  <./img/uncorPlot_noData.png>]
 File: img/uncorPlot_noData.png Graphic file (type png)
 <use img/uncorPlot_noData.png>
-Package pdftex.def Info: img/uncorPlot_noData.png  used on input line 306.
+Package pdftex.def Info: img/uncorPlot_noData.png  used on input line 374.
 (pdftex.def)             Requested size: 291.92444pt x 145.9699pt.
- [28
+ [34
 
 ]
-<img/uncorPlot_Data.png, id=193, 433.62pt x 216.81pt>
+<img/uncorPlot_Data.png, id=229, 433.62pt x 216.81pt>
 File: img/uncorPlot_Data.png Graphic file (type png)
 <use img/uncorPlot_Data.png>
-Package pdftex.def Info: img/uncorPlot_Data.png  used on input line 315.
+Package pdftex.def Info: img/uncorPlot_Data.png  used on input line 383.
 (pdftex.def)             Requested size: 291.92444pt x 145.9699pt.
 
-[29
+[35
 
  <./img/uncorPlot_Data.png>]
-<img/uncorPlot_DataHline.png, id=199, 433.62pt x 216.81pt>
+<img/uncorPlot_DataHline.png, id=235, 433.62pt x 216.81pt>
 File: img/uncorPlot_DataHline.png Graphic file (type png)
 <use img/uncorPlot_DataHline.png>
-Package pdftex.def Info: img/uncorPlot_DataHline.png  used on input line 325.
+Package pdftex.def Info: img/uncorPlot_DataHline.png  used on input line 393.
 (pdftex.def)             Requested size: 291.92444pt x 145.9699pt.
- [30
+ [36
 
  <./img/uncorPlot_DataHline.png>]
-<img/uncorPlot_DataHlineTrue.png, id=205, 433.62pt x 216.81pt>
+<img/uncorPlot_DataHlineTrue.png, id=241, 433.62pt x 216.81pt>
 File: img/uncorPlot_DataHlineTrue.png Graphic file (type png)
 <use img/uncorPlot_DataHlineTrue.png>
-Package pdftex.def Info: img/uncorPlot_DataHlineTrue.png  used on input line 33
-5.
+Package pdftex.def Info: img/uncorPlot_DataHlineTrue.png  used on input line 40
+3.
 (pdftex.def)             Requested size: 291.92444pt x 145.9699pt.
- [31
+ [37
 
- <./img/uncorPlot_DataHlineTrue.png>] [32
+ <./img/uncorPlot_DataHlineTrue.png>] [38
 
 ]
-<img/alan.jpg, id=217, 307.1475pt x 424.58624pt>
+<img/alan.jpg, id=253, 307.1475pt x 424.58624pt>
 File: img/alan.jpg Graphic file (type jpg)
 <use img/alan.jpg>
-Package pdftex.def Info: img/alan.jpg  used on input line 363.
+Package pdftex.def Info: img/alan.jpg  used on input line 431.
 (pdftex.def)             Requested size: 122.91406pt x 169.90923pt.
-<img/human_pca.jpg, id=218, 777.90625pt x 625.33624pt>
+<img/human_pca.jpg, id=254, 777.90625pt x 625.33624pt>
 File: img/human_pca.jpg Graphic file (type jpg)
 <use img/human_pca.jpg>
-Package pdftex.def Info: img/human_pca.jpg  used on input line 363.
+Package pdftex.def Info: img/human_pca.jpg  used on input line 431.
 (pdftex.def)             Requested size: 193.59044pt x 155.61803pt.
- [33
+ [39
 
  <./img/alan.jpg> <./img/human_pca.jpg>]
 File: img/alan.jpg Graphic file (type jpg)
 <use img/alan.jpg>
-Package pdftex.def Info: img/alan.jpg  used on input line 389.
+Package pdftex.def Info: img/alan.jpg  used on input line 457.
 (pdftex.def)             Requested size: 122.91406pt x 169.90923pt.
-[34
+[40
 
 ]
 File: img/treeIslands.jpg Graphic file (type jpg)
 <use img/treeIslands.jpg>
-Package pdftex.def Info: img/treeIslands.jpg  used on input line 414.
+Package pdftex.def Info: img/treeIslands.jpg  used on input line 482.
 (pdftex.def)             Requested size: 139.81496pt x 74.06155pt.
 File: img/treePhens.png Graphic file (type png)
 <use img/treePhens.png>
-Package pdftex.def Info: img/treePhens.png  used on input line 414.
+Package pdftex.def Info: img/treePhens.png  used on input line 482.
 (pdftex.def)             Requested size: 179.76164pt x 149.80307pt.
 
-Overfull \vbox (6.9556pt too high) detected at line 414
+Overfull \vbox (6.9556pt too high) detected at line 482
  []
 
-[35
-
-] [36
-
-] [37
-
-] [38
-
-] [39
-
-] [40
-
-] [41
+[41
 
 ] [42
+
+] [43
+
+] [44
+
+] [45
+
+] [46
+
+] [47
+
+] [48
+
+] [49
 
 ]
 \tf@nav=\write6
@@ -1402,33 +1445,34 @@ Package rerunfilecheck Info: File `Lecture_4.1.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 28611 strings out of 474116
- 558818 string characters out of 5743683
+ 28666 strings out of 474116
+ 559528 string characters out of 5743682
  1936187 words of memory out of 5000000
- 50301 multiletter control sequences out of 15000+600000
- 575900 words of font info for 99 fonts, out of 8000000 for 9000
+ 50342 multiletter control sequences out of 15000+600000
+ 576194 words of font info for 100 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,12n,123p,428b,907s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
 ></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb>
-</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb><
-/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></
-usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></u
-sr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr
-/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/l
-ocal/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/
-local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/
-local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi12.pfb></usr/
-local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/l
-ocal/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi9.pfb></usr/lo
-cal/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/loc
-al/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local
-/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/t
-exlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
-Output written on Lecture_4.1.pdf (42 pages, 2263751 bytes).
+</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></
+usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></u
+sr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></us
+r/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr
+/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/l
+ocal/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/loc
+al/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/lo
+cal/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/lo
+cal/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi12.pfb></usr/lo
+cal/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/loc
+al/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi9.pfb></usr/loca
+l/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local
+/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/t
+exlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/tex
+live/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
+Output written on Lecture_4.1.pdf (49 pages, 2684509 bytes).
 PDF statistics:
- 366 PDF objects out of 1000 (max. 8388607)
- 261 compressed objects within 3 object streams
- 85 named destinations out of 1000 (max. 500000)
- 123 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 414 PDF objects out of 1000 (max. 8388607)
+ 296 compressed objects within 3 object streams
+ 99 named destinations out of 1000 (max. 500000)
+ 138 words of extra memory for PDF output out of 10000 (max. 10000000)
 
