@@ -1,0 +1,133 @@
+
+%%% Uncomment for slide version
+\documentclass[xcolor=dvipsnames]{beamer}
+\setbeameroption{hide notes} % Only slides
+
+%%% Uncomment for handout version
+%\documentclass[handout]{beamer}
+%\setbeameroption{show notes on second screen=right} % Both
+
+\usepackage{enumitem}
+\usepackage{listings}
+\usepackage{adjustbox} % To incorporate code into Latex
+\usepackage{multirow} % To merge multiple rows  in a table
+\usepackage{soul} % To put in strikethrough text
+\usepackage{array}
+\usepackage{makecell}
+
+\setbeamertemplate{note page}{\pagecolor{white}\insertnote}
+\setbeamertemplate{footline}{}
+\usetheme[progressbar=frametitle]{moloch}% modern fork of the metropolis theme
+\setbeamercolor{background canvas}{bg=white}
+\setbeamercolor{frametitle}{fg=black,bg=ProcessBlue!20}
+
+\setbeamercolor{progress bar}{use=palette primary,fg=black,bg=black}
+\setbeamercolor{note page}{bg=white} 
+\setbeamertemplate{date}{}
+
+
+\DeclareUnicodeCharacter{0313}{*************************************}
+
+\setbeamertemplate{page number in head/foot}{}
+
+
+\addtobeamertemplate{navigation symbols}{}{%
+	\usebeamerfont{footline}%
+	\usebeamercolor[fg]{footline}%
+	\hspace{1em}%
+	\insertframenumber/\inserttotalframenumber
+}
+\setbeamercolor{itemize item}{fg=black}
+\setbeamercolor{itemize subitem}{fg=black}
+\setbeamercolor{itemize subsubitem}{fg=black}
+
+\newcommand\blfootnote[1]{%
+	\begingroup
+	\renewcommand\thefootnote{}\footnote{#1}%
+	\addtocounter{footnote}{-1}%
+	\endgroup
+}
+
+%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%
+
+
+
+
+\title{\Huge FRST302: Forest Genetics}
+\author{\Large Interlude I}
+\date{\today}
+
+\begin{document}
+	\maketitle
+
+\begin{frame}
+\frametitle{What is a p-value?}
+\pause
+\Large \textit{The probability of a particular observation under the null hypothesis}
+
+\end{frame}
+
+
+\begin{frame}
+	\frametitle{Flipping Coins}
+	Assume you're flipping a \textbf{fair} coin\\ \pause
+	\vspace{10pt}
+	This gives us the probability of flipping tails as $Pr(Tails)=0.5$\\ \pause
+	\vspace{10pt}
+	\textbf{Q:} If you flipped the coin 5 times, what is the probability of getting tails each time? \\ \pause
+	\vspace{10pt}
+	\textbf{A:} $Pr($5 tails out of 5 flips$) = 0.5^5$	
+	
+
+
+	
+
+\end{frame}
+
+
+
+\begin{frame}
+	\frametitle{Flipping Coins}
+
+	\textbf{Q:} If you flipped the coin 5 times, what is the prbability that you got exactly two heads? \\ \pause
+	\vspace{10pt}
+	\textbf{A:} HHTTT, HTHTT, HTTHT, HTTTH, THHTT, THTHT, THTTH, TTHHT, TTHTH, TTTHH\\
+	\textit{10 possible ways to get it } 
+		
+		
+
+\end{frame}
+
+
+
+
+
+\end{document}
+
+
+%%%
+\begin{columns}
+	\begin{column}{0.5\textwidth}
+	\end{column}
+	\begin{column}{0.5\textwidth}
+	\end{column}
+\end{columns}
+
+
+\begin{frame}
+	\frametitle{Recap}
+	
+	
+	\begin{itemize}
+		\item[--] Introduction to genetic modification and genome editing
+		\item[--] Methods of genetic modification and genome editing
+		\item[--] Application of these in forest biology	
+		
+	\end{itemize}
+
